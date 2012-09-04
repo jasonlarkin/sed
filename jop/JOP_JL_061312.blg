@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
+The top-level auxiliary file: JOP_JL_061312.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+Repeated entry---line 5917 of file references.bib
+ : @misc{sellan2010b
+ :                  ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 11075 of file references.bib
+ : 
+ : %Nanostructures
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 11115 of file references.bib
+ : @article{li1997
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11497 of file references.bib
+ : @misc{lammps
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 11531 of file references.bib
+ : @misc{gulp
+ :           ,
+I'm skipping whatever remains of this entry
+Warning--empty title in maradudin1974
+Warning--empty title in asheghi1997
+Warning--empty title in balandin1997
+Warning--empty title in tian2011
+Warning--empty title in Hochbaum2011
+Warning--empty title in Martin2011
+Warning--empty title in Yu2011
+Warning--empty title in Hopkins2011
+You've used 55 entries,
+            1791 wiz_defined-function locations,
+            752 strings with 11325 characters,
+and the built_in function-call counts, 11880 in all, are:
+= -- 983
+> -- 577
+< -- 1
++ -- 215
+- -- 160
+* -- 845
+:= -- 2000
+add.period$ -- 158
+call.type$ -- 55
+change.case$ -- 40
+chr.to.int$ -- 0
+cite$ -- 63
+duplicate$ -- 505
+empty$ -- 1171
+format.name$ -- 160
+if$ -- 2592
+int.to.chr$ -- 0
+int.to.str$ -- 55
+missing$ -- 59
+newline$ -- 270
+num.names$ -- 57
+pop$ -- 113
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 172
+stack$ -- 0
+substring$ -- 811
+swap$ -- 60
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 8
+while$ -- 103
+width$ -- 57
+write$ -- 588
+(There were 5 error messages)

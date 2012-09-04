@@ -1,0 +1,13 @@
+This is accounted for by using the "corrected fin length".  As the analysis of the solution states: "For an active fin, the efficiency may be expressed in terms of the corrected fin length as".  Check the definition of the corrected fin length, for a cylinder it is L_c = L + D/4, meaning the fin is considered to be a little longer than it actually is.  This is an approximate way to account for the extra area that the fin face provides for heat transfer.  It works by taking the area of the face:
+
+$A_face = \pi D2 / 4$
+
+And equates it to the area of the fin if the pin were enlongated a bit more:
+
+$A_elong = \pi D l$
+
+Where l is the amount the fin is stretched out.  Thus if:
+
+$A_face = A_elong$
+
+Means $l = D/4$, which is the amount the corrected fin length is increased by.  Make sense?  This is a general way to derive the corrected fin lengths, 

@@ -1,0 +1,2598 @@
+
+@incollection{
+LatticeDynamics,
+   Title = {Chapter 5: Lattice Dynamics},
+   Pages = {52-73},
+   Year = {} }
+
+
+
+
+@article{
+Inyushkin2004,
+   Author = {A. V. Inyushkin, A. N. Taldenkov, A. M. Gibin, A. V. Gusev, H.-J. Pohl,},
+   Title = {On the Isotope Effect in Thermal Conductivity of Silicon},
+   Journal = {physica status solidi (c)},
+   Volume = {1},
+   Number = {11},
+   Pages = {2995-2998},
+   Year = {2004} }
+
+
+
+
+@article{
+Abraham1998,
+   Author = {Abraham, F. F.  and Broughton, J. Q. and Bernstein, N.  and Kaxiras, E.},
+   Title = {Spanning the Continuum to Quantum Length Scales
+in a Dynamic Simulation of Brittle Fracture},
+   Journal = {Eourophysics Letters},
+   Volume = {44},
+   Number = {6},
+   Pages = {783-787},
+   Year = {1998} }
+
+
+
+
+@article{
+Abramson2002,
+   Author = {Abramson, Alexis R. and Tien, Chang-Lin and Majumdar, Arun},
+   Title = {Interface and Strain Effects on the Thermal Conductivity of Heterostructures: A Molecular Dynamics Study},
+   Journal = {Journal of Heat Transfer},
+   Volume = {124},
+   Number = {5},
+   Pages = {963-970},
+   Year = {2002} }
+
+
+
+
+@article{
+Allen2004,
+   Author = {Allen, Michael P.},
+   Title = {Introduction to Molecular Dynamics Simulation},
+   Pages = {1-27},
+   Year = {2004} }
+
+
+
+
+@book{
+Allen1987,
+   Author = {Allen, M. P. and Tildesley, D. J.},
+   Title = {Computer Simulation of Liquids},
+   Publisher = {Oxford University Press},
+   Address = {Oxford},
+   Year = {1987} }
+
+
+
+
+@article{
+Allen1999,
+   Author = {Allen, Philip B. and Feldman, J.L. and Fabian, Jaroslav and Wooten, F.},
+   Title = {Diffusons, Locons and Propagons: Character of Atomic Vibrations in Amorphous {S}I},
+   Journal = {Philosophical Magazine B: Physics of Condensed Matter; Statistical Mechanics, Electronic, Optical and Magnetic Properties},
+   Volume = {79},
+   Pages = {1715-1731},
+   Year = {1999} }
+
+
+
+
+@article{
+Al-Matar2004,
+   Author = {Al-Matar, Ali Khalaf and Rockstraw, David A.},
+   Title = {A Generating Equation for Mixing Rules and Two New Mixing Rules for Interatomic Potential Energy Parameters},
+   Journal = {Journal of Computational Chemistry},
+   Volume = {25},
+   Number = {5},
+   Pages = {660-668},
+   Year = {2004} }
+
+
+
+
+@article{
+Aoki1985,
+   Author = {Aoki, S.},
+   Title = {Hydrodynamics of a Highly Flattened Galaxy, Based on the Collisionless {B}Oltzmann Equation},
+   Journal = {Astronomy and Astrophysics},
+   Volume = {148},
+   Number = {1},
+   Pages = {1-11},
+   Year = {1985} }
+
+
+
+
+@book{
+Ashcroft1976,
+   Author = {Ashcroft, N. W. and Mermin, N. D.},
+   Title = {Solid State Physics},
+   Publisher = {Saunders College Publishing},
+   Address = {Fort Worth},
+   Year = {1976} }
+
+
+
+
+@article{
+Asheghi2002,
+   Author = {Asheghi, M. and Kurabayashi, K. and Kasnavi, R. and Goodson, K. E.},
+   Title = {Thermal Conduction in Doped Single-Crystal Silicon Films},
+   Journal = {Journal of Applied Physics},
+   Volume = {91},
+   Number = {8},
+   Pages = {5079-5088},
+   Year = {2002} }
+
+
+
+
+@article{
+Asheghi1997,
+   Author = {Asheghi, M. and Leung, Y.K. and Wong, S.S. and Goodson, K.E.},
+   Title = {Phonon-Boundary Scattering in Thin Silicon Layers},
+   Journal = {Applied Physics Letters},
+   Volume = {71},
+   Number = {13},
+   Pages = {1798},
+   Year = {1997} }
+
+
+
+
+@article{
+Ayton2001,
+   Author = {Ayton, G S D and Bardenhagen, S and McMurtry, P and Sulsky, D and Voth, G A},
+   Title = {Interfacing Molecular Dynamics with Continuum Dynamics in Computer Simulation: Toward an Application to Biological Membranes},
+   Journal = {IBM Journal of Research and Development},
+   Volume = {45},
+   Pages = {417-426},
+   Year = {2001} }
+
+
+
+
+@article{
+Baroni2001,
+   Author = {Baroni, Stefano and de Gironcoli, Stefano and Dal Corso, Andrea and Giannozzi, Paolo},
+   Title = {Phonons and Related Crystal Properties from Density-Functional Perturbation Theory},
+   Journal = {Reviews of Modern Physics},
+   Volume = {73},
+   Number = {2},
+   Pages = {515-562},
+   Year = {2001} }
+
+
+
+
+@article{
+Batra1990,
+   Author = {Batra, Inder P.},
+   Title = {Atomic Structure of the {S}I(001)-(2x1) Surface},
+   Journal = {Physical Review B},
+   Volume = {41},
+   Number = {8},
+   Pages = {5048-5054},
+   Year = {1990} }
+
+
+
+
+@article{
+Berendsen1984,
+   Author = {Berendsen, H. J. C. and Postma, J. P. M. and van Gunsteren, W. F. and Dinola, A. and Haak, J. R.},
+   Title = {Molecular Dynamics with Coupling to an External Bath},
+   Journal = {Journal of Chemical Physics},
+   Volume = {81},
+   Number = {8},
+   Pages = {3684-3690},
+   Year = {1984} }
+
+
+
+
+@article{
+Bobetic1970,
+   Author = {Bobetic, M. V. and Barker, J. A.},
+   Title = {Lattice Dynamics with Three-Body Forces: Argon},
+   Journal = {Physical Review B},
+   Volume = {2},
+   Number = {10},
+   Pages = {4169-4175},
+   Year = {1970} }
+
+
+
+
+@article{
+Borca-Tasciuc2000,
+   Author = {Borca-Tasciuc, T. and Liu, W. and Liu, J. and Zeng, T. and Song, D. and Moore, C. and Chen, G. and Wang, K. and Goorsky, M.},
+   Title = {Thermal Conductivity of Symmetrically Strained Si/Ge Superlattices},
+   Journal = {Superlattices and Microstructures},
+   Volume = {28},
+   Number = {3},
+   Pages = {199-206},
+   Year = {2000} }
+
+
+
+
+@article{
+Born1942,
+   Author = {Born, Max},
+   Title = {Lattice Dynamics and {X}-Ray Scattering},
+   Journal = {Proceedings of the Physical Society},
+   Volume = {54},
+   Number = {4},
+   Pages = {362-376},
+   Year = {1942} }
+
+
+
+
+@book{
+Born1954,
+   Author = {Born, Max and Huang, Kun},
+   Title = {Dynamical Theory of Crystal Lattices},
+   Publisher = {Clarendon Press},
+   Address = {Oxford},
+   Year = {1954} }
+
+
+
+
+@article{
+Bowers1950,
+   Author = {Bowers, Wayne A. and Rosenstock, Herbert B.},
+   Title = {On the Vibrational Spectra of Crystals},
+   Journal = {Journal of Chemical Physics},
+   Volume = {18},
+   Number = {8},
+   Pages = {1056-1062},
+   Year = {1950} }
+
+
+
+
+@article{
+Broido2007,
+   Author = {Broido, D. A. and Malorny, M. and Birner, G. and Mingo, Natalio and Stewart, D. A.},
+   Title = {Intrinsic Lattice Thermal Conductivity of Semiconductors from First Principles},
+   Journal = {Applied Physics Letters},
+   Volume = {91},
+   Number = {23},
+   Pages = {231922-231923},
+   Year = {2007} }
+
+
+
+
+@article{
+Broido2004,
+   Author = {Broido, D. A. and Reinecke, T. L.},
+   Title = {Lattice Thermal Conductivity of Superlattice Structures},
+   Journal = {Physical Review B},
+   Volume = {70},
+   Number = {8},
+   Pages = {081310},
+   Year = {2004} }
+
+
+
+
+@article{
+Broido2005,
+   Author = {Broido, D. A. and Ward, A. and Mingo, N.},
+   Title = {Lattice Thermal Conductivity of Silicon from Empirical Interatomic Potentials},
+   Journal = {Physical Review B},
+   Volume = {72},
+   Number = {1},
+   Pages = {014308},
+   Year = {2005} }
+
+
+
+
+@article{
+Broughton1999,
+   Author = {Broughton, Jeremy Q. and Abraham, Farid F. and Bernstein, Noam and Kaxiras, Efthimios},
+   Title = {Concurrent Coupling of Length Scales: Methodology and Application},
+   Journal = {Physical Review B},
+   Volume = {60},
+   Number = {4},
+   Pages = {2391-2403},
+   Year = {1999} }
+
+
+
+
+@article{
+Cahill2003,
+   Author = {Cahill, David G. and Ford, Wayne K. and Goodson, Kenneth E. and Mahan, Gerald D. and Majumdar, Arun and Maris, Humphrey J. and Merlin, Roberto and Phillpot, Simon R.},
+   Title = {Nanoscale Thermal Transport},
+   Journal = {Journal of Applied Physics},
+   Volume = {93},
+   Number = {2},
+   Pages = {793-818},
+   Year = {2003} }
+
+
+
+
+@article{
+Cahill2002,
+   Author = {Cahill, David G. and Goodson, K. E. and Majumdar, Arunava},
+   Title = {Thermometry and Thermal Transport in Micro/Nanoscale Solid-State Devices and Structures},
+   Journal = {ASME Journal of Heat Transfer},
+   Volume = {124},
+   Number = {2},
+   Pages = {223-241},
+   Year = {2002} }
+
+
+
+
+@article{
+Callaway1959,
+   Author = {Callaway, Joseph},
+   Title = {Model for Lattice Thermal Conductivity at Low Temperatures},
+   Journal = {Physical Review},
+   Volume = {113},
+   Number = {4},
+   Pages = {1046-1051},
+   Year = {1959} }
+
+
+
+
+@article{
+Carruthers1961,
+   Author = {Carruthers, Peter},
+   Title = {Theory of Thermal Conductivity of Solids at Low Temperatures},
+   Journal = {Reviews of Modern Physics},
+   Volume = {33},
+   Number = {1},
+   Pages = {92-138},
+   Year = {1961} }
+
+
+
+
+@article{
+Chakraborty2003,
+   Author = {Chakraborty, S. and Kleint, C. A. and Heinrich, A. and Schneider, C. M. and Schumann, J. and Falke, M. and Teichert, S.},
+   Title = {Thermal Conductivity in Strain Symmetrized {S}I/{G}E Superlattices on {S}I(111)},
+   Journal = {Applied Physics Letters},
+   Volume = {83},
+   Number = {20},
+   Pages = {4184-4186},
+   Year = {2003} }
+
+
+
+
+@article{
+Chantrenne2004,
+   Author = {Chantrenne, Patrice and Barrat, Jean-Louis},
+   Title = {Finite Size Effects in Determination of Thermal Conductivities: Comparing Molecular Dynamics Results with Simple Models},
+   Journal = {Journal of Heat Transfer},
+   Volume = {126},
+   Number = {4},
+   Pages = {577-585},
+   Year = {2004} }
+
+
+
+
+@article{
+Chantrenne2005,
+   Author = {Chantrenne, P. and Barrat, J.L. and Blase, X. and Gale, J.D.},
+   Title = {An Analytical Model for the Thermal Conductivity of Silicon Nanostructures},
+   Journal = {Journal of Applied Physics},
+   Volume = {97},
+   Number = {10},
+   Pages = {104318},
+   Year = {2005} }
+
+
+
+
+@article{
+Che2000,
+   Author = {Che, Jianwei and Cagin, Tahir and Deng, Weiqiao and Goddard III, William A.},
+   Title = {Thermal Conductivity of Diamond and Related Materials from Molecular Dynamics Simulations},
+   Journal = {The Journal of Chemical Physics},
+   Volume = {113},
+   Number = {16},
+   Pages = {6888-6900},
+   Year = {2000} }
+
+
+
+
+@article{
+Chen2003,
+   Author = {Chen, G},
+   Title = {Nanoscale Heat Transfer and Information Technology},
+   Journal = {Rohsenow Symposium on Future Trends of Heat Transfer},
+   Pages = {3},
+   Year = {2003} }
+
+
+
+
+@article{
+Chen2003-48,
+   Author = {Chen, G and Dresselhaus, M. S. and Dresselhaus, G. and Fleurial, J. P. and Caillat, T.},
+   Title = {Recent Developments in Thermoelectric Materials},
+   Journal = {International materials reviews},
+   Volume = {48},
+   Number = {1},
+   Pages = {45-66},
+   Year = {2003} }
+
+
+
+
+@article{
+Chen1997,
+   Author = {Chen, G. and Neagu, M.},
+   Title = {Thermal Conductivity and Heat Transfer in Superlattices},
+   Journal = {Applied Physics Letters},
+   Volume = {71},
+   Number = {19},
+   Pages = {2761},
+   Year = {1997} }
+
+
+
+
+@article{
+Chen2002,
+   Author = {Chen, G. and Shakouri, A.},
+   Title = {Heat Transfer in Nanostructures for Solid-State Energy Conversion},
+   Journal = {Micro/nanoscale heat transfer
+Journal of Heat Transfer},
+   Volume = {124},
+   Number = {2},
+   Pages = {242-252},
+   Year = {2002} }
+
+
+
+
+@article{
+Chen2006,
+   Author = {Chen, J.K. and Tzou, D.Y. and Beraun, J.E.},
+   Title = {A Semiclassical Two-Temperature Model for Ultrafast Laser Heating},
+   Journal = {International Journal of Heat and Mass Transfer},
+   Volume = {49},
+   Number = {1-2},
+   Pages = {307-316},
+   Year = {2006} }
+
+
+
+
+@article{
+Chen1985,
+   Author = {Chen, Jin-Quan and Gao, Mei-Juan and Ma, Guang-Qun},
+   Title = {The Representation Group and Its Application to Space Groups},
+   Journal = {Reviews of Modern Physics},
+   Volume = {57},
+   Number = {1},
+   Pages = {211-278},
+   Year = {1985} }
+
+
+
+
+@techreport{
+Chen1994,
+   Author = {Chen, S and Doolean, Gary D and Eggert, Kenneth},
+   Title = {Lattice {B}Oltzmann Fluid Dynamics},
+   Institution = {Los Alamos Science},
+   Number = {22},
+   Year = {1994} }
+
+
+
+
+@article{
+Chen2004,
+   Author = {Chen, Yunfei and Li, Deyu and Yang, Juekuan and Wu, Yonghua and Lukes, Jennifer R. and Majumdar, Arun},
+   Title = {Molecular Dynamics Study of the Lattice Thermal Conductivity of {K}R/{a}R Superlattice Nanowires},
+   Journal = {Physica B: Condensed Matter},
+   Volume = {349},
+   Number = {1-4},
+   Pages = {270-280},
+   Year = {2004} }
+
+
+
+
+@article{
+Christen1975,
+   Author = {Christen, David K and Pollack, Gerald L},
+   Title = {Thermal Conductivity of Solid Argon},
+   Journal = {Physical Review B},
+   Volume = {12},
+   Number = {8},
+   Pages = {3380-3391},
+   Year = {1975} }
+
+
+
+
+@article{
+Chung2004,
+   Author = {Chung, J. D. and McGaughey, A. J. H. and Kaviany, M.},
+   Title = {Role of Phonon Dispersion in Lattice Thermal Conductivity Modeling},
+   Journal = {Journal of Heat Transfer},
+   Volume = {126},
+   Number = {3},
+   Pages = {376-380},
+   Year = {2004} }
+
+
+
+
+@book{
+Cottam2005,
+   Author = {Cottam, M. G. and Tilley, D. R.},
+   Title = {Introduction to Surface and Superlattice Excitations},
+   Publisher = {Institute of Physics Publishing},
+   Address = {Philadelphia},
+   Edition = {2},
+   Series = {Graduate Student Series in Physics},
+   Year = {2005} }
+
+
+
+
+@article{
+Cowley1968,
+   Author = {Cowley, R. A.},
+   Title = {Anharmonic Crystals},
+   Journal = {Reports of Progress in Physics},
+   Volume = {31},
+   Pages = {123-166},
+   Year = {1968} }
+
+
+
+
+@article{
+Debernardi1995,
+   Author = {Debernardi, Alberto and Baroni, Stefano and Molinari, Elisa},
+   Title = {Anharmonic Phonon Lifetimes in Semiconductors from Density-Functional Perturbation Theory},
+   Journal = {Physical Review Letters},
+   Volume = {75},
+   Number = {9},
+   Pages = {1819-1822},
+   Year = {1995} }
+
+
+
+
+@article{
+Deinzer2003,
+   Author = {Deinzer, G. and Birner, G. and Strauch, D.},
+   Title = {\Textit{Ab Initio} Calculation of the Linewidth of Various Phonon Modes in Germanium and Silicon},
+   Journal = {Physical Review B},
+   Volume = {67},
+   Number = {14},
+   Pages = {144304},
+   Year = {2003} }
+
+
+
+
+@article{
+Ding1986,
+   Author = {Ding, Kejian and Andersen, Hans C.},
+   Title = {Molecular-Dynamics Simulation of Amorphous Germanium},
+   Journal = {Physical Review B},
+   Volume = {34},
+   Number = {10},
+   Pages = {6987-6991},
+   Year = {1986} }
+
+
+
+
+@article{
+DiSalvo1999,
+   Author = {DiSalvo, F. J.},
+   Title = {Thermoelectric Cooling and Power Generation},
+   Journal = {Science},
+   Volume = {285},
+   Number = {5428},
+   Pages = {703-706},
+   Year = {1999} }
+
+
+
+
+@article{
+Dobbs1957,
+   Author = {Dobbs, E. R. and Jones, G. O.},
+   Title = {Theory and Properties of Solid Argon},
+   Journal = {Reports on Progress in Physics},
+   Volume = {20},
+   Number = {1},
+   Pages = {516-564},
+   Year = {1957} }
+
+
+
+
+@misc{
+Dove,
+   Author = {Dove, Martin T.},
+   Title = {Lattice Dynamics and Specific Heats},
+   Address = {Cambridge},
+   Pages = {27},
+ Year = {} }
+
+
+
+
+@book{
+Dove1993,
+   Author = {Dove, Martin T.},
+   Title = {Introduction to Lattice Dynamics},
+   Publisher = {Cambridge University Press},
+   Address = {Cambridge, UK},
+   Year = {1993} }
+
+
+
+
+@article{
+Dugdale1955,
+   Author = {Dugdale, J. S. and MacDonald, D. K. C.},
+   Title = {Lattice Thermal Conductivity},
+   Journal = {Physical Review},
+   Volume = {98},
+   Number = {6},
+   Pages = {1751-1752},
+   Year = {1955} }
+
+
+
+
+@article{
+Feldman1993,
+   Author = {Feldman, J.L. and Kluge, M.D. and Allen, P.B. and Wooten, F.},
+   Title = {Thermal Conductivity and Localization in Glasses: Numerical Study of a Model of Amorphous Silicon},
+   Journal = {Physical Review B},
+   Volume = {48},
+   Number = {17},
+   Pages = {12589-12602},
+   Year = {1993} }
+
+
+
+
+@book{
+Fultz2005,
+   Author = {Fultz, Brent and Kelley, Tim and McKerns, Mike and Lin, Jiao and Lee, JaeDong and Aivazis, Michael and Delaire, Olivier},
+   Title = {Inelastic Neutron Scattering with the {Arcs} Spectrometer},
+   Address = {Pasadena, California},
+   Year = {2005} }
+
+
+
+
+@article{
+Galler2005,
+   Author = {Galler, Martin and Schurrer, Ferdinand},
+   Title = {Multigroup Equations to the Hot-Electron Hot-Phonon System in {Iii-V} Compound Semiconductors},
+   Journal = {Computer Methods in Applied Mechanics and Engineering},
+   Volume = {194},
+   Number = {25-26},
+   Pages = {2806-2818},
+   Year = {2005} }
+
+
+
+
+@article{
+Giannozzi1991,
+   Author = {Giannozzi, Paolo and de Gironcoli, Stefano and Pavone, Pasquale and Baroni, Stefano},
+   Title = {Ab Initio Calculation of Phonon Dispersions in Semiconductors},
+   Journal = {Physical Review B},
+   Volume = {43},
+   Number = {9},
+   Pages = {7231-7242},
+   Year = {1991} }
+
+
+
+
+@article{
+Gillis1971,
+   Author = {Gillis, N. S. and Koehler, T. R.},
+   Title = {Anharmonic Interactions in Aluminum. {I}{I}},
+   Journal = {Physical Review B},
+   Volume = {3},
+   Number = {10},
+   Pages = {3568-3571},
+   Year = {1971} }
+
+
+
+
+@article{
+Glassbrenner1964,
+   Author = {Glassbrenner, C. J. and Slack, Glen A.},
+   Title = {Thermal Conductivity of Silicon and Germanium from 3{K} to the Melting Point},
+   Journal = {Physical Review},
+   Volume = {134},
+   Number = {4A},
+   Pages = {A1058-A1069},
+   Year = {1964} }
+
+
+
+
+@article{
+Glyde1980,
+   Author = {Glyde, H. R. and Smoes, M. G.},
+   Title = {Phonons in Solid Argon},
+   Journal = {Physical Review B},
+   Volume = {22},
+   Number = {12},
+   Pages = {6391-6402},
+   Year = {1980} }
+
+
+
+
+@article{
+Glyde1972,
+   Author = {Glyde, H. R. and Taylor, Roger},
+   Title = {Anharmonic Lattice Dynamics in {N}A},
+   Journal = {Physical Review B},
+   Volume = {5},
+   Number = {4},
+   Pages = {1206-1213},
+   Year = {1972} }
+
+
+
+
+@article{
+Glyde1982,
+   Author = {Glyde, Henry R. and Taylor, Roger},
+   Title = {Anharmonic Phonons in {C}S},
+   Journal = {Physical Review B},
+   Volume = {25},
+   Number = {10},
+   Pages = {6500-6503},
+   Year = {1982} }
+
+
+
+
+@phdthesis{
+Goicochea2008-PhD,
+   Author = {Goicochea, Javier V.},
+   Title = {Hierarchical Modeling of Heat Transfer in
+Electronic Devices},
+   School = {Carnegie Mellon University},
+   Address = {Pittsburgh, PA},
+   Type = {Ph.{D}. Thesis},
+   Year = {2008} }
+
+
+
+
+@phdthesis{
+GomesThesis,
+   Author = {Gomes, Carlos J.},
+   Title = {Molecular Dynamics Study of Silicon Thin Films Thermal Conductivity},
+   School = {Carnegie Mellon University},
+   Address = {Pittsburgh, PA},
+   Type = {Ph.{D}. Thesis},
+   Year = {2005} }
+
+
+
+
+@article{
+Gomes2006,
+   Author = {Gomes, Carlos J. and Madrid, Marcela and Goicochea, Javier V. and Amon, Cristina H.},
+   Title = {In-Plane and out-of-Plane Thermal Conductivity of Silicon Thin Films Predicted by Molecular Dynamics},
+   Journal = {Journal of Heat Transfer},
+   Volume = {128},
+   Pages = {1114-1121},
+   Year = {2006} }
+
+
+
+
+@article{
+Goodson1999,
+   Author = {Goodson, Kenneth E. and Ju, Y. Sungtaek},
+   Title = {Heat Conduction in Novel Electronic Films},
+   Journal = {Annual Review of Materials Science},
+   Volume = {29},
+   Number = {1},
+   Pages = {261-293},
+   Year = {1999} }
+
+
+
+
+@article{
+Grujicic2005,
+   Author = {Grujicic, M. and Cao, G. and Roy, Walter N.},
+   Title = {Computational Analysis of the Lattice Contribution to Thermal Conductivity of Single-Walled Carbon Nanotubes},
+   Journal = {Journal of Materials Science},
+   Volume = {40},
+   Number = {8},
+   Pages = {1943-1952},
+   Year = {2005} }
+
+
+
+
+@book{
+Haile1992,
+   Author = {Haile, J. M.},
+   Title = {Molecular Dynamics Simulation: Elementary Methods},
+   Publisher = {John Wiley and Sons, Inc.},
+   Address = {New York},
+   Year = {1992} }
+
+
+
+
+@article{
+Han1993,
+   Author = {Han, Y.-J. and Klemens, P. G.},
+   Title = {Anharmonic Thermal Resistivity of Dielectric Crystals at Low Temperatures},
+   Journal = {Physical Review B},
+   Volume = {48},
+   Number = {9},
+   Pages = {6033-6042},
+   Year = {1993} }
+
+
+
+
+@article{
+Hansen1978,
+   Author = {Hansen, Flemming Yssing},
+   Title = {Generation of Symmetry Coordinates for Crystals Using Multiplier Representations of the Space Groups},
+   Journal = {Physical Review B},
+   Volume = {18},
+   Number = {8},
+   Pages = {4015-4038},
+   Year = {1978} }
+
+
+
+
+@article{
+Heino2007-4,
+   Author = {Heino, P.},
+   Title = {Thermal Conduction Simulations in the Nanoscale},
+   Journal = {Journal of Computational and Theoretical Nanoscience},
+   Volume = {4},
+   Number = {5},
+   Pages = {896-927},
+   Year = {2007} }
+
+
+
+
+@article{
+Heino2007-60,
+   Author = {Heino, P.},
+   Title = {Dispersion and Thermal Resistivity in Silicon Nanofilms by Molecular Dynamics},
+   Journal = {The European Physical Journal B - Condensed Matter and Complex Systems},
+   Volume = {60},
+   Number = {2},
+   Pages = {171-179},
+   Year = {2007} }
+
+
+
+
+@article{
+Henry2008,
+   Author = {Henry, Asegun S. and Chen, Gang},
+   Title = {Spectral Phonon Transport Properties of Silicon Based on Molecular Dynamics Simulations and Lattice Dynamics},
+   Journal = {Journal of Computational and Theoretical Nanoscience},
+   Volume = {5},
+   Number = {2},
+   Pages = {1-12},
+   Year = {2008} }
+
+
+
+
+@article{
+Herring1954,
+   Author = {Herring, Conyers},
+   Title = {Role of Low-Energy Phonons in Thermal Conduction},
+   Journal = {Physical Review},
+   Volume = {95},
+   Number = {4},
+   Pages = {954-965},
+   Year = {1954} }
+
+
+
+
+@article{
+Holian1995,
+   Author = {Holian, Brad Lee and Voter, Arthur F. and Ravelo, Ramon},
+   Title = {Thermostatted Molecular Dynamics: How to Avoid the {T}Oda Demon Hidden in {N}Ose-{H}Oover Dynamics},
+   Journal = {Physical Review E},
+   Volume = {52},
+   Number = {3},
+   Pages = {2338-2347},
+   Year = {1995} }
+
+
+
+
+@article{
+Holland1963,
+   Author = {Holland, M. G.},
+   Title = {Analysis of Lattice Thermal Conductivity},
+   Journal = {Physical Review},
+   Volume = {132},
+   Number = {6},
+   Pages = {2461-2471},
+   Year = {1963} }
+
+
+
+
+@article{
+Holland1964,
+   Author = {Holland, M. G.},
+   Title = {Phonon Scattering in Semiconductors from Thermal Conductivity Studies},
+   Journal = {Physical Review},
+   Volume = {134},
+   Number = {2A},
+   Pages = {A471-A480},
+   Year = {1964} }
+
+
+
+
+@article{
+Huxtable2002,
+   Author = {Huxtable, Scott T. and Abramson, Alexis R. and Tien, Chang-Lin and Majumdar, Arun and LaBounty, Chris and Fan, Xiaofeng and Zeng, Gehong and Bowers, John E. and Shakouri, Ali and Croke, Edward T.},
+   Title = {Thermal Conductivity of {S}I/{S}I{G}E and {S}I{G}E/{S}I{G}E Superlattices},
+   Journal = {Applied Physics Letters},
+   Volume = {80},
+   Number = {10},
+   Pages = {1737-1739},
+   Year = {2002} }
+
+
+
+
+@article{
+Hyldgaard1997,
+   Author = {Hyldgaard, Per and Mahan, G. D.},
+   Title = {Phonon Superlattice Transport},
+   Journal = {Physical Review B},
+   Volume = {56},
+   Number = {17},
+   Pages = {10754-10757},
+   Year = {1997} }
+
+
+
+
+@article{
+Ikeshoji1994,
+   Author = {Ikeshoji, T. and Hafskjold, B.},
+   Title = {Non-Equilibrium Molecular Dynamics Calculation of Heat Conduction in Liquid and through Liquid-Gas Interface},
+   Journal = {Molecular Physics},
+   Volume = {81},
+   Number = {2},
+   Pages = {251-261},
+   Year = {1994} }
+
+
+
+
+@article{
+Ju1999,
+   Author = {Ju, Y. S. and Goodson, K. E.},
+   Title = {Phonon Scattering in Silicon Films with Thickness of Order 100 Nm},
+   Journal = {Applied Physics Letters},
+   Volume = {74},
+   Number = {20},
+   Pages = {3005-3007},
+   Year = {1999} }
+
+
+
+
+@inproceedings{
+Kaburaki1998,
+   Author = {Kaburaki, Hideo and Li, Ju and Yip, Sidney},
+   Title = {Thermal Conductivity of Solid Argon by Classical Molecular Dynamics},
+   BookTitle = {Materials Research Society Symposium},
+   Address= {Boston, MA, USA},
+   Publisher = {Materials Research Society, Warrendale, PA, USA},
+   Volume = {538},
+   Pages = {503-508},
+   Year = {1998} }
+
+
+
+
+@article{
+Kaburaki2007,
+   Author = {Kaburaki, Hideo and Li, Ju and Yip, Sidney and Kimizuka, Hajime},
+   Title = {Dynamical Thermal Conductivity of Argon Crystal},
+   Journal = {Journal of Applied Physics},
+   Volume = {102},
+   Number = {4},
+   Pages = {043514-043516},
+   Year = {2007} }
+
+
+
+
+@book{
+Kantorovich2004,
+   Author = {Kantorovich, Lev},
+   Title = {Quantum Theory of the Solid State: An Introduction},
+   Publisher = {Kluwer Academic Publishers},
+   Address = {Doedrecht},
+   Volume = {136},
+   Series = {Fundamental Theories of Physics},
+   Year = {2004} }
+
+
+
+
+@article{
+Kim2007,
+   Author = {Kim, W. and Singer, S. L. and Majumdar, A.},
+   Title = {Tuning Thermal Transport in Crystalline Solids Using Embedded Nanoparticles},
+   Journal = {Journal of Physics: Conference Series},
+   Volume = {92},
+   Pages = {012085},
+   Year = {2007} }
+
+
+
+
+@article{
+Kim2006,
+   Author = {Kim, Woochul and Zide, Joshua and Gossard, Arthur and Klenov, Dmitri and Stemmer, Susanne and Shakouri, Ali and Majumdar, Arun},
+   Title = {Thermal Conductivity Reduction and Thermoelectric Figure of Merit Increase by Embedding Nanoparticles in Crystalline Semiconductors},
+   Journal = {Physical Review Letters},
+   Volume = {96},
+   Number = {4},
+   Pages = {045901-045904},
+   Year = {2006} }
+
+
+
+
+@article{
+Klein1969,
+   Author = {Klein, M. L. and Horton, G. K. and Feldman, J. L.},
+   Title = {Thermodynamic Properties of Solid {Ar}, {K}R, and {X}E Based Upon a Short-Range Central Force and the Conventional Perturbation Expansion of the Partition Function},
+   Journal = {Physical Review},
+   Volume = {184},
+   Number = {3},
+   Pages = {968-978},
+   Year = {1969} }
+
+
+
+
+@article{
+Klemens1951,
+   Author = {Klemens, P. G.},
+   Title = {The Thermal Conductivity of Dielectric Solids at Low Temperatures (Theoretical)},
+   Journal = {Proceedings of the Royal Society of London. Series A, Mathematical and Physical  Sciences},
+   Volume = {208},
+   Number = {1092},
+   Pages = {108-133},
+   Year = {1951} }
+
+
+
+
+@article{
+Klemens1961,
+   Author = {Klemens, P. G.},
+   Title = {Anharmonic Attenuation of Localized Lattice Vibrations},
+   Journal = {Physical Review},
+   Volume = {122},
+   Number = {2},
+   Pages = {443-445},
+   Year = {1961} }
+
+
+
+
+@article{
+Klemens1966,
+   Author = {Klemens, P. G.},
+   Title = {Anharmonic Decay of Optical Phonons},
+   Journal = {Physical Review},
+   Volume = {148},
+   Number = {2},
+   Pages = {845-848},
+   Year = {1966} }
+
+
+
+
+@article{
+Koehler1970,
+   Author = {Koehler, T. R. and Gillis, N. S. and Wallace, Duane C.},
+   Title = {Anharmonic Interaction in Aluminum. {I}},
+   Journal = {Physical Review B},
+   Volume = {1},
+   Number = {12},
+   Pages = {4521-4528},
+   Year = {1970} }
+
+
+
+
+@article{
+Kokkedee1962-phonon,
+   Author = {Kokkedee, J. J. J.},
+   Title = {Anharmonic Effects in the Coherent Scattering of Neutrons by Crystals : A Formal Treatment of Shift and Width of the Peaks in the Scattering Spectrum},
+   Journal = {Physica},
+   Volume = {28},
+   Number = {4},
+   Pages = {374-408},
+   Year = {1962} }
+
+
+
+
+@article{
+Kokkedee1962-electron,
+   Author = {Kokkedee, J. J. J.},
+   Title = {Influence of Electron-Phonon Interaction on the Scattering of Neutrons by Conducting Crystals},
+   Journal = {Physica},
+   Volume = {28},
+   Number = {9},
+   Pages = {893-907},
+   Year = {1962} }
+
+
+
+
+@article{
+Kulda2004,
+   Author = {Kulda, J. and Debernardi, A. and Cardona, M. and de Geuser, F. and Haller, E. E.},
+   Title = {Self-Energy of Zone-Boundary Phonons in Germanium:  Ab Initio Calculations Versus Neutron Spin-Echo Measurements},
+   Journal = {Physical Review B},
+   Volume = {69},
+   Number = {4},
+   Pages = {045209-045205},
+   Year = {2004} }
+
+
+
+
+@article{
+Ladd1986,
+   Author = {Ladd, Anthony J. C. and Moran, Bill and Hoover, William G.},
+   Title = {Lattice Thermal Conductivity: A Comparison of Molecular Dynamics and Anharmonic Lattice Dynamics},
+   Journal = {Physical Review B},
+   Volume = {34},
+   Number = {8},
+   Pages = {5058-5064},
+   Year = {1986} }
+
+
+
+
+@techreport{
+Landry2006,
+   Author = {Landry, Eric},
+   Title = {Lattice Dynamics Calculations of {L}Ennard-{J}Ones Fcc Crystals},
+   Institution = {Carnegie Mellon University},
+   Year = {2006} }
+
+
+
+
+@article{
+Landry2008,
+   Author = {Landry, E. S. and Hussein, M. I. and McGaughey, A. J. H.},
+   Title = {Complex Superlattice Unit Cell Designs for Reduced Thermal Conductivity},
+   Journal = {Physical Review B},
+   Volume = {77},
+   Number = {18},
+   Pages = {184302-184313},
+   Year = {2008} }
+
+
+
+
+@inproceedings{
+Landry2006-13673,
+   Author = {Landry, E.S. and McGaughey, A. J. H. and Hussein, M.I.},
+   Title = {Superlattice Analysis for Tailored Thermal Transport Characteristics},
+   BookTitle = {ASME International Mechanical Engineering Congress and Exposition},
+   Address= {Chicago, Illinois},
+   Pages = {13673},
+   Year = {2006} }
+
+
+
+
+@inproceedings{
+Landry2007-43177,
+   Author = {Landry, E.S. and McGaughey, A. J. H. and Hussein, M.I.},
+   Title = {Molecular Dynamics Prediction of the Thermal Conductivity of {S}I/{S}I$_{1-X}${G}E$_{X}$ Superlattices},
+   BookTitle = {ASME International Mechanical Engineering Congress and Exposition},
+   Address= {Seattle, Washington},
+   Pages = {43177},
+   Year = {2007} }
+
+
+
+
+@inproceedings{
+Landry2007-32152,
+   Author = {Landry, E.S. and McGaughey, A. J. H. and Hussein, M.I.},
+   Title = {Molecular Dynamics Prediction of the Thermal Conductivity of {S}I/{G}E Superlattices},
+   BookTitle = {ASME-JSME Thermal Engineering Summer Heat Transfer Conference},
+   Address= {Vancouver, British Columbia},
+   Pages = {32152},
+   Year = {2007} }
+
+
+
+
+@article{
+Landry2007-Drop,
+   Author = {Landry, E. S. and Mikkilineni, S. and Paharia, M. and McGaughey, A. J. H.},
+   Title = {Droplet Evaporation: A Molecular Dynamics Investigation},
+   Journal = {Journal of Applied Physics},
+   Volume = {102},
+   Number = {12},
+   Pages = {124301-124307},
+   Year = {2007} }
+
+
+
+
+@article{
+Laradji1995,
+   Author = {Laradji, Mohamed and Landau, D. P. and Dünweg, B.},
+   Title = {Structural Properties of {S}I$_{1-X}${G}E$_{X}$ Alloys: A {M}Onte {C}Arlo Simulation with the {S}Tillinger-{W}Eber Potential},
+   Journal = {Physical Review B},
+   Volume = {51},
+   Number = {8},
+   Pages = {4894-4902},
+   Year = {1995} }
+
+
+
+
+@article{
+Lee1997,
+   Author = {Lee, S.-M. and Cahill, David G. and Venkatasubramanian, Rama},
+   Title = {Thermal Conductivity of {S}I--{G}E Superlattices},
+   Journal = {Applied Physics Letters},
+   Volume = {70},
+   Number = {22},
+   Pages = {2957-2959},
+   Year = {1997} }
+
+
+
+
+@article{
+Lee1991,
+   Author = {Lee, Young Hee and Biswas, R. and Soukoulis, C. M. and Wang, C. Z. and Chan, C. T. and Ho, K. M.},
+   Title = {Molecular-Dynamics Simulation of Thermal Conductivity in Amorphous Silicon},
+   Journal = {Physical Review B},
+   Volume = {43},
+   Number = {8},
+   Pages = {6573-6580},
+   Year = {1991} }
+
+
+
+
+@article{
+Lepri2003,
+   Author = {Lepri, Stefano and Livi, Roberto and Politi, Antonio},
+   Title = {Thermal Conduction in Classical Low-Dimensional Lattices},
+   Journal = {Physics Reports},
+   Volume = {377},
+   Number = {1},
+   Pages = {1-80},
+   Year = {2003} }
+
+
+
+
+@article{
+Li2005,
+   Author = {Li, Deyu and Huxtable, Scott T. and Abramson, Alexis R. and Majumdar, Arun},
+   Title = {Thermal Transport in Nanostructured Solid-State Cooling Devices},
+   Journal = {Journal of Heat Transfer},
+   Volume = {127},
+   Number = {1},
+   Pages = {108-114},
+   Year = {2005} }
+
+
+
+
+@phdthesis{
+Li2000,
+   Author = {Li, Ju},
+   Title = {Modeling Microstructural Effects on Deformation Resistance and Thermal Conductivity},
+   School = {Massachusetts Institute of Technology},
+   Address = {Cambridge, MA},
+   Type = {Ph.{D}. Thesis},
+   Year = {2000} }
+
+
+
+
+@article{
+Li1998,
+   Author = {Li, Ju and Porter, Lisa and Yip, Sidney},
+   Title = {Atomistic Modeling of Finite-Temperature Properties of Crystalline $\Beta$-{Sic}: {Ii}. Thermal Conductivity and Effects of Point Defects},
+   Journal = {Journal of Nuclear Materials},
+   Volume = {255},
+   Number = {2-3},
+   Pages = {139-152},
+   Year = {1998} }
+
+
+
+
+@article{
+Li1997,
+   Author = {Li, Ju and Yip, Sidney},
+   Title = {Order-{N} Method to Calculate the Local Density of States},
+   Journal = {Physical Review B},
+   Volume = {56},
+   Number = {7},
+   Pages = {3524-3527},
+   Year = {1997} }
+
+
+
+
+@article{
+Li1988,
+   Author = {Li, X.-P. and Chen, G. and Allen, P. B. and Broughton, J. Q.},
+   Title = {Energy and Vibrational Spectrum of the {S}I(111) (7 X 7) Surface from Empirical Potentials},
+   Journal = {Physical Review B},
+   Volume = {38},
+   Number = {5},
+   Pages = {3331-3341},
+   Year = {1988} }
+
+
+
+
+@book{
+CRC-88,
+   Editor = {Lide, David R.},
+   Title = {{C}{R}{C} Handbook of Chemistry and Physics},
+   Publisher = {{CRC} Press/Taylor and Francis},
+   Address = {Boca Raton, FL},
+   Edition = {88 (Internet Version 2008)},
+   Year = {2008} }
+
+
+
+
+@article{
+Liebendorfer2005,
+   Author = {Liebend\"{o}rfer, M. and Rampp, M. and Janka, H.-Th. and Mezzacappa, A.},
+   Title = {Supernova Simulations with {B}Oltzmann Neutrino Transport: A Comparison of Methods},
+   Journal = {The Astrophysical Journal},
+   Volume = {620},
+   Pages = {840-860},
+   Year = {2005} }
+
+
+
+
+@article{
+Liu2004,
+   Author = {Liu, W. and Asheghi, M.},
+   Title = {Phonon-Boundary Scattering in Ultrathin Single-Crystal Silicon Layers},
+   Journal = {Applied Physics Letters},
+   Volume = {84},
+   Number = {19},
+   Pages = {3819-3821},
+   Year = {2004} }
+
+
+
+
+@article{
+Liu2006,
+   Author = {Liu, Wenjun and Asheghi, Mehdi},
+   Title = {Thermal Conductivity Measurements of Ultra-Thin Single Crystal Silicon Layers},
+   Journal = {Journal of Heat Transfer},
+   Volume = {128},
+   Number = {1},
+   Pages = {75-83},
+   Year = {2006} }
+
+
+
+
+@article{
+Lukes2000,
+   Author = {Lukes, J.R. and Li, D.Y. and Liang, X.-G. and Tien, C.-L.},
+   Title = {Molecular Dynamics Study of Solid Thin-Film Thermal Conductivity},
+   Journal = {Journal of Heat Transfer},
+   Volume = {122},
+   Number = {3},
+   Pages = {536-543},
+   Year = {2000} }
+
+
+
+
+@book{
+Lundstrum2000,
+   Author = {Lundstrom, Mark},
+   Title = {Fundamentals of Carrier Transport},
+   Publisher = {Cambridge University Press},
+   Address = {Cambridge, UK},
+   Edition = {2nd},
+   Year = {2000} }
+
+
+
+
+@article{
+Lyon1977,
+   Author = {Lyon, K.G. and Salinger, G.L. and Swenson, C.A. and White, G.K.},
+   Title = {Linear Thermal Expansion Measurements on Silicon from 6 to 340{K}},
+   Journal = {Journal of Applied Physics},
+   Volume = {48},
+   Number = {3},
+   Pages = {865-868},
+   Year = {1977} }
+
+
+
+
+@article{
+Mahan1996,
+   Author = {Mahan, G. D.},
+   Title = {Quantum {B}Oltzmann Equation for Photons},
+   Journal = {Journal of Mathematical Physics},
+   Volume = {37},
+   Number = {9},
+   Pages = {4333-4351},
+   Year = {1996} }
+
+
+
+
+@incollection{
+Majumdar1998,
+   Author = {Majumdar, Arun},
+   Title = {Microscale Energy Transport in Solids},
+   BookTitle = {Microscale Energy Transport},
+   Editor = {Tien, C.-L. and Majumdar, Arun and Gerner, F. M.},
+   Publisher = {Taylor and Francis},
+   Address = {Washington},
+   Pages = {72},
+   Year = {1998} }
+
+
+
+
+@article{
+Maradudin1964,
+   Author = {Maradudin, A. A. and Ambegaokar, V.},
+   Title = {Calculation of the Scattering Function {S}(K,$\Omega$ ) for the Inelastic Scattering of Neutrons by Anharmonic Crystals},
+   Journal = {Physical Review},
+   Volume = {135},
+   Number = {4A},
+   Pages = {A1071-A1080},
+   Year = {1964} }
+
+
+
+
+@article{
+Maradudin1993,
+   Author = {Maradudin, A. A. and Califano, S.},
+   Title = {Theory of Anharmonic Processes in Crystals with Isotopic Impurities},
+   Journal = {Physical Review B},
+   Volume = {48},
+   Number = {17},
+   Pages = {12628-12636},
+   Year = {1993} }
+
+
+
+
+@article{
+Maradudin1962,
+   Author = {Maradudin, A. A. and Fein, A. E.},
+   Title = {Scattering of Neutrons by an Anharmonic Crystal},
+   Journal = {Physical Review},
+   Volume = {128},
+   Number = {6},
+   Pages = {2589-2608},
+   Year = {1962} }
+
+
+
+
+@article{
+Maradudin1963,
+   Author = {Maradudin, A. A. and Flinn, P. A.},
+   Title = {Anharmonic Contributions to the {D}Ebye-{W}Aller Factor},
+   Journal = {Physical Review},
+   Volume = {129},
+   Number = {6},
+   Pages = {2529-2547},
+   Year = {1963} }
+
+
+
+
+@article{
+Maradudin1968,
+   Author = {Maradudin, A. A. and Vosko, S. H.},
+   Title = {Symmetry Properties of the Normal Vibrations of a Crystal},
+   Journal = {Reviews of Modern Physics},
+   Volume = {40},
+   Number = {1},
+   Pages = {1-37},
+   Year = {1968} }
+
+
+
+
+@article{
+Maruyama2003,
+   Author = {Maruyama, Shigeo},
+   Title = {A Molecular Dynamics Simulation of Heat Conduction of a Finite Length Single-Walled Carbon Nanotube},
+   Journal = {Microscale Thermophysical Engineering},
+   Volume = {7},
+   Number = {1},
+   Pages = {41-50},
+   Year = {2003} }
+
+
+
+
+@article{
+McConnell2005,
+   Author = {McConnell, A. D. and Goodson, K.E.},
+   Title = {Thermal Conduction in Silicon Micro- and Nanostructures},
+   Journal = {Annual Review of Heat Transfer},
+   Volume = {14},
+   Pages = {129-168},
+   Year = {2005} }
+
+
+
+
+@phdthesis{
+McGaughey2004-PhD,
+   Author = {McGaughey, Alan J. H.},
+   Title = {Phonon Transport in Molecular Dynamics Simulations: Formulation and Thermal Conductivity Prediction},
+   School = {University of Michigan},
+   Address = {Ann Arbor, Michigan},
+   Type = {Ph.{D}. Thesis},
+   Year = {2004} }
+
+
+
+
+@article{
+McGaughey2006-74,
+   Author = {McGaughey, A. J. H. and Hussein, M. I. and Landry, E. S. and Kaviany, M. and Hulbert, G. M.},
+   Title = {Phonon Band Structure and Thermal Transport Correlation in a Layered Diatomic Crystal},
+   Journal = {Physical Review B},
+   Volume = {74},
+   Number = {10},
+   Pages = {104304-104301},
+   Year = {2006} }
+
+
+
+
+@article{
+McGaughey2004-69,
+   Author = {McGaughey, Alan J. H. and Kaviany, M.},
+   Title = {Quantitative Validation of the {B}Oltzmann Transport Equation Phonon Thermal Conductivity Model under the Single-Mode Relaxation Time Approximation},
+   Journal = {Physical Review B},
+   Volume = {69},
+   Number = {9},
+   Pages = {094303},
+   Year = {2004} }
+
+
+
+
+@article{
+McGaughey2004-126,
+   Author = {McGaughey, Alan J. H. and Kaviany, M.},
+   Title = {Role of Phonon Dispersion in Lattice Thermal Conductivity Analysis},
+   Journal = {ASME Journal of Heat Transfer},
+   Volume = {126},
+   Pages = {376-380},
+   Year = {2004} }
+
+
+
+
+@article{
+McGaughey2004-47(Part1),
+   Author = {McGaughey, A. J. H. and Kaviany, M.},
+   Title = {Thermal Conductivity Decomposition and Analysis Using Molecular Dynamics Simulations: {P}Art {I}. {L}Ennard-{J}Ones Argon},
+   Journal = {International Journal of Heat and Mass Transfer},
+   Volume = {47},
+   Number = {8-9},
+   Pages = {1783-1798},
+   Year = {2004} }
+
+
+
+
+@article{
+McGaughey2004-47(Part2),
+   Author = {McGaughey, A. J. H. and Kaviany, M.},
+   Title = {Thermal Conductivity Decomposition and Analysis Using Molecular Dynamics Simulations:  {P}Art {Ii}. Complex Silica Structures},
+   Journal = {International Journal of Heat and Mass Transfer},
+   Volume = {47},
+   Number = {8-9},
+   Pages = {1799-1816},
+   Year = {2004} }
+
+
+
+
+@article{
+McGaughey2005,
+   Author = {McGaughey, Alan J. H. and Kaviany, M.},
+   Title = {Observation and Description of Phonon Interactions in Molecular Dynamics Simulations},
+   Journal = {Physical Review B},
+   Volume = {71},
+   Number = {18},
+   Pages = {184305},
+   Year = {2005} }
+
+
+
+
+@incollection{
+McGaughey2006-book,
+   Author = {McGaughey, A. J. H. and Kaviany, M.},
+   Title = {Phonon Transport in Moleclar Dynamics Simulations: Formulation and Thermal Conductivity Prediction},
+   BookTitle = {Advances in Heat Transfer},
+   Editor = {Greene, G. and Cho, Y. and Hartnett, J and Bar-Cohen, A.},
+   Publisher = {Elsevier},
+   Volume = {39},
+   Pages = {169-255},
+   Year = {2006} }
+
+
+
+
+@inproceedings{
+McGaughey2006-13590,
+   Author = {McGaughey, A. J. H. and Li, J.},
+   Title = {Molecular Dynamics Prediction of the Thermal Resistance of Solid-Solid Interfaces in Superlattices},
+   BookTitle = {ASME International Mechanical Engineering Conference and Exhibition},
+   Address= {Chicago, Illinois},
+   Pages = {13590},
+   Year = {2006} }
+
+
+
+
+@book{
+McQuarrie2000,
+   Author = {McQuarrie, D. A.},
+   Title = {Statistical Mechanics},
+   Publisher = {University Science Books},
+   Address = {Sausalito},
+   Year = {2000} }
+
+
+
+
+@article{
+Mingo2003,
+   Author = {Mingo, N.},
+   Title = {Calculation of {S}I Nanowire Thermal Conductivity Using Complete Phonon Dispersion Relations},
+   Journal = {Physical Review B},
+   Volume = {68},
+   Number = {11},
+   Pages = {113308},
+   Year = {2003} }
+
+
+
+
+@article{
+Monkhorst1976,
+   Author = {Monkhorst, Hendrik J. and Pack, James D.},
+   Title = {Special Points for {B}Rillouin-Zone Integrations},
+   Journal = {Physical Review B},
+   Volume = {13},
+   Number = {12},
+   Pages = {5188-5192},
+   Year = {1976} }
+
+
+
+
+@article{
+Murakawa2004,
+   Author = {Murakawa, Atsushi and Ishii, Hideo and Kakimoto, Koichi},
+   Title = {An Investigation of Thermal Conductivity of Silicon as a Function of Isotope Concentration by Molecular Dynamics},
+   Journal = {Journal of Crystal Growth},
+   Volume = {267},
+   Number = {3-4},
+   Pages = {452-457},
+   Year = {2004} }
+
+
+
+
+@article{
+Narumanchi2004,
+   Author = {Narumanchi, Sreekant V.J. and Murthy, Jayathi Y. and Amon, Cristina H.},
+   Title = {Submicron Heat Transport Model in Silicon Accounting for Phonon Dispersion and Polarization},
+   Journal = {Journal of Heat Transfer},
+   Volume = {126},
+   Number = {6},
+   Pages = {946-955},
+   Year = {2004} }
+
+
+
+
+@article{
+Nelin1974,
+   Author = {Nelin, G. and Nilsson, G.},
+   Title = {Phonon Anharmonicity of Germanium in the Temperature Range 80-880 {K}},
+   Journal = {Physical Review B},
+   Volume = {10},
+   Number = {2},
+   Pages = {612-620},
+   Year = {1974} }
+
+
+
+
+@article{
+Nilsson1971,
+   Author = {Nilsson, G. and Nelin, G.},
+   Title = {Phonon Dispersion Relations in {G}E at 80 $^\Circ${K}},
+   Journal = {Physical Review B},
+   Volume = {3},
+   Number = {2},
+   Pages = {364-369},
+   Year = {1971} }
+
+
+
+
+@article{
+Nilsson1972,
+   Author = {Nilsson, G. and Nelin, G.},
+   Title = {Study of the Homology between Silicon and Germanium by Thermal-Neutron Spectrometry},
+   Journal = {Physical Review B},
+   Volume = {6},
+   Number = {10},
+   Pages = {3777-3786},
+   Year = {1972} }
+
+
+
+
+@article{
+O'Connell1995,
+   Author = {O'Connell, Sean T. and Thompson, Peter A.},
+   Title = {Molecular Dynamics-Continuum Hybrid Computations: A Tool for Studying Complex Fluid Flows},
+   Journal = {Physical Review E},
+   Volume = {52},
+   Number = {6},
+   Pages = {R5792-R5795},
+   Year = {1995} }
+
+
+
+
+@article{
+Okada1984,
+   Author = {Okada, Y. and Tokumaru, Y.},
+   Title = {Precise Determination of Lattice Parameter and Thermal Expansion Coefficient of Silicon between 300 and 1500{K}},
+   Journal = {Journal of Applied Physics},
+   Volume = {56},
+   Number = {2},
+   Pages = {314-320},
+   Year = {1984} }
+
+
+
+
+@article{
+Omini1995,
+   Author = {Omini, M. and Sparavigna, A.},
+   Title = {An Iterative Approach to the Phonon {B}Oltzmann Equation in the Theory of Thermal Conductivity},
+   Journal = {Physica B},
+   Volume = {212},
+   Number = {2},
+   Pages = {101-112},
+   Year = {1995} }
+
+
+
+
+@article{
+Omini1996,
+   Author = {Omini, M. and Sparavigna, A.},
+   Title = {Beyond the Isotropic-Model Approximation in the Theory of Thermal Conductivity},
+   Journal = {Physical Review B},
+   Volume = {53},
+   Number = {14},
+   Pages = {9064-9073},
+   Year = {1996} }
+
+
+
+
+@article{
+Omini1997,
+   Author = {Omini, M. and Sparavigna, A.},
+   Title = {Heat Transport in Dielectric Solids with Diamond Structure},
+   Journal = {Nuovo Cimento Della Societa Italiana Di Fisica. D},
+   Volume = {19},
+   Number = {10},
+   Pages = {1537},
+   Year = {1997} }
+
+
+
+
+@article{
+Park2005,
+   Author = {Park, Harold S. and Karpov, Eduard G. and Liu, Wing Kam},
+   Title = {Non-Reflecting Boundary Conditions for Atomistic, Continuum and Coupled Atomistic/Continuum Simulations},
+   Journal = {International Journal for Numerical Methods in Engineering},
+   Volume = {64},
+   Number = {2},
+   Pages = {237-259},
+   Year = {2005} }
+
+
+
+
+@article{
+Park2004,
+   Author = {Park, Harold S. and Liu, Wing Kam},
+   Title = {An Introduction and Tutorial on Multiple-Scale Analysis in Solids},
+   Journal = {Computer Methods in Applied Mechanics and Engineering},
+   Volume = {193},
+   Number = {17-20},
+   Pages = {1733-1772},
+   Year = {2004} }
+
+
+
+
+@inproceedings{
+Pascual-Gutierrez2005,
+   Author = {Pascual-Gutierrez, Jose A. and Murthy, Jayathi Y. and Viskanta, Raymond},
+   Title = {Confinement Effects in Two-Dimensional Silicon Structures},
+   BookTitle = {ASME Summer Heat Transfer Conference. HT2005-72220},
+   Address= {San Fransisco, Califronia},
+   Year = {2005} }
+
+
+
+
+@article{
+Pascual-Gutierrez2007,
+   Author = {Pascual-Gutierrez, Jose A. and Murthy, Jayathi Y. and Viskanta, Raymond},
+   Title = {Limits of Size Confinement in Silicon Thin Films and Wires},
+   Journal = {Journal of Applied Physics},
+   Volume = {102},
+   Number = {3},
+   Pages = {034315-034318},
+   Year = {2007} }
+
+
+
+
+@article{
+Pathak1965,
+   Author = {Pathak, K. N.},
+   Title = {Theory of Anharmonic Crystals},
+   Journal = {Physical Review},
+   Volume = {139},
+   Number = {5A},
+   Pages = {A1569-A1580},
+   Year = {1965} }
+
+
+
+
+@article{
+Pavone1993,
+   Author = {Pavone, P. and Karch, K. and Schütt, O. and Strauch, D. and Windl, W. and Giannozzi, P. and Baroni, S.},
+   Title = {Ab Initio Lattice Dynamics of Diamond},
+   Journal = {Physical Review B},
+   Volume = {48},
+   Number = {5},
+   Pages = {3156-3163},
+   Year = {1993} }
+
+
+
+
+@book{
+Peierls1955,
+   Author = {Peierls, R. E.},
+   Title = {Quantum Theory of Solids},
+   Publisher = {Oxford Claredon Press},
+   Year = {1955} }
+
+
+
+
+@article{
+Perez-Mato1998,
+   Author = {Perez-Mato, J. M. and Aroyo, M. and Hlinka, J. and Quilichini, M. and Currat, R.},
+   Title = {Phonon Symmetry Selection Rules for Inelastic Neutron Scattering},
+   Journal = {Physical Review Letters},
+   Volume = {81},
+   Number = {12},
+   Pages = {2462-2465},
+   Year = {1998} }
+
+
+
+
+@article{
+Plimpton1995,
+   Author = {Plimpton, Steve},
+   Title = {Fast Parallel Algorithms for Short-Range Molecular Dynamics},
+   Journal = {Journal of Computational Physics},
+   Volume = {117},
+   Number = {1},
+   Pages = {1-19},
+   Year = {1995} }
+
+
+
+
+@article{
+Pollack1964,
+   Author = {Pollack, G L},
+   Title = {The Solid State of Rare Gases},
+   Journal = {Reviews of Modern Physics},
+   Volume = {36},
+   Number = {3},
+   Pages = {748-791},
+   Year = {1964} }
+
+
+
+
+@article{
+Pop2003,
+   Author = {Pop, Eric and Dutton, Robert and Goodson, K. E.},
+   Title = {Thermal Analysis of Ultra-Thin Body Device Scaling},
+   Journal = {IEEE International Electron Devices Meeting 2003},
+   Pages = {36.36.31-34},
+   Year = {2003} }
+
+
+
+
+@article{
+Pop2006,
+   Author = {Pop, Eric and Goodson, K. E.},
+   Title = {Thermal Phenomena in Nanoscale Transistors},
+   Journal = {ASME Journal of Electronic Packaging},
+   Volume = {128},
+   Pages = {102-108},
+   Year = {2006} }
+
+
+
+
+@book{
+Rapaport1995,
+   Author = {Rapaport, D. C.},
+   Title = {The Art of Molecular Dynamics Simulation},
+   Publisher = {Cambridge University Press},
+   Address = {Cambridge},
+   Year = {1995} }
+
+
+
+
+@article{
+Rapaport2006,
+   Author = {Rapaport, D. C.},
+   Title = {Multibillion-Atom Molecular Dynamics Simulation: Design Considerations for Vector-Parallel Processing},
+   Journal = {Computer Physics Communication},
+   Volume = {174},
+   Pages = {521-529},
+   Year = {2006} }
+
+
+
+
+@book{
+Reissland1973,
+   Author = {Reissland, J. A.},
+   Title = {The Physics of Phonons},
+   Publisher = {John Wiley \& Sons},
+   Address = {New York},
+   Year = {1973} }
+
+
+
+
+@article{
+Rudd1998,
+   Author = {Rudd, Robert E. and Broughton, Jeremy Q.},
+   Title = {Coarse-Grained Molecular Dynamics and the Atomic Limit of Finite Elements},
+   Journal = {Physical Review B},
+   Volume = {58},
+   Number = {10},
+   Pages = {R5893-R5896},
+   Year = {1998} }
+
+
+
+
+@article{
+Schelling2001,
+   Author = {Schelling, Patrick K. and Phillpot, Simon R.},
+   Title = {Mechanism of Thermal Transport in Zirconia and Yttria-Stabilized Zirconia by Molecular-Dynamics Simulation},
+   Journal = {Journal of the American Ceramic Society},
+   Volume = {84},
+   Number = {12},
+   Pages = {2997-3007},
+   Year = {2001} }
+
+
+
+
+@article{
+Schelling2002,
+   Author = {Schelling, Patrick K. and Phillpot, Simon R. and Keblinski, Pawel},
+   Title = {Comparison of Atomic-Level Simulation Methods for Computing Thermal Conductivity},
+   Journal = {Physical Review B},
+   Volume = {65},
+   Number = {14},
+   Pages = {144306},
+   Year = {2002} }
+
+
+
+
+@article{
+Sinha2005,
+   Author = {Sinha, S. and Schelling, P.K. and Phillpot, S.R. and Goodson, K.E.},
+   Title = {Scattering of G -Process Longitudinal Optical Phonons at Hotspots in Silicon},
+   Journal = {Journal of Applied Physics},
+   Volume = {97},
+   Number = {2},
+   Pages = {023702-023701},
+   Year = {2005} }
+
+
+
+
+@book{
+Srivastava1990,
+   Author = {Srivastava, G. P.},
+   Title = {The Physics of Phonons},
+   Publisher = {Adam Hilger},
+   Address = {Bristol},
+   Year = {1990} }
+
+
+
+
+@article{
+Stillinger1985,
+   Author = {Stillinger, F.H. and Weber, T.A.},
+   Title = {Computer Simulation of Local Order in Condensed Phases of Silicon},
+   Journal = {Physical Review B},
+   Volume = {31},
+   Number = {8},
+   Pages = {5262-5271},
+   Year = {1985} }
+
+
+
+
+@article{
+Sun2006,
+   Author = {Sun, Lin and Murthy, Jayathi Y.},
+   Title = {Domain Size Effects in Molecular Dynamics Simulation of Phonon Transport in Silicon},
+   Journal = {Applied Physics Letters},
+   Volume = {89},
+   Number = {17},
+   Pages = {171919-171913},
+   Year = {2006} }
+
+
+
+
+@article{
+Suvernev1997,
+   Author = {Suvernev, Andrei A. and Goodson, David Z.},
+   Title = {Perturbation Theory for Coupled Anharmonic Oscillators},
+   Journal = {The Journal of Chemical Physics},
+   Volume = {106},
+   Number = {7},
+   Pages = {2681-2684},
+   Year = {1997} }
+
+
+
+
+@article{
+Sverdrup2001-123,
+   Author = {Sverdrup, P.G. and Ju, Y. S. and Goodson, K. E.},
+   Title = {Sub-Continuum Simulations of Heat Conduction in Silicon-on-Insulator Transistors},
+   Journal = {ASME Journal of Heat Transfer},
+   Volume = {123},
+   Number = {1},
+   Pages = {130-137},
+   Year = {2001} }
+
+
+
+
+@article{
+Sverdrup2001-78,
+   Author = {Sverdrup, P.G. and Sinha, S. and Asheghi, M. and Uma, S. and Goodson, K.E.},
+   Title = {Measurement of Ballistic Phonon Conduction near Hotspots in Silicon},
+   Journal = {Applied Physics Letters},
+   Volume = {78},
+   Number = {21},
+   Pages = {3331},
+   Year = {2001} }
+
+
+
+
+@article{
+Tamura1999,
+   Author = {Tamura, Shin-ichiro and Tanaka, Yukihiro and Maris, Humphrey J.},
+   Title = {Phonon Group Velocity and Thermal Conduction in Superlattices},
+   Journal = {Physical Review B},
+   Volume = {60},
+   Number = {4},
+   Pages = {2627-2630},
+   Year = {1999} }
+
+
+
+
+@article{
+Tilford1972,
+   Author = {Tilford, C. R. and Swenson, C. A.},
+   Title = {Thermal Expansions of Solid Argon, Krypton, and Xenon above 1 {K}},
+   Journal = {Physical Review B},
+   Volume = {5},
+   Number = {2},
+   Pages = {719-732},
+   Year = {1972} }
+
+
+
+
+@article{
+Tretiakov2004,
+   Author = {Tretiakov, Konstantin V. and Scandolo, Sandra},
+   Title = {Thermal Conductivity of Solid Argon from Molecular Dynamics Simulations},
+   Journal = {Journal of Chemical Physics},
+   Volume = {120},
+   Number = {8},
+   Pages = {3765-3769},
+   Year = {2004} }
+
+
+
+
+@book{
+Tritt2004,
+   Editor = {Tritt, Terry M.},
+   Title = {Thermal Conductivity Theory, Properties, and Applications},
+   Publisher = {Kluwer Acedemic/Plenum Publishers},
+   Address = {New York},
+  Series = {Physics of Solids and Liquids},
+   Year = {2004} }
+
+
+
+
+@article{
+Tromp1985,
+   Author = {Tromp, R. M. and Hamers, R. J. and E., Demuth J.},
+   Title = {Si(001) Dimer Structure Observed with Scanning Tunneling Microscopy},
+   Journal = {Physical Review Letters},
+   Volume = {55},
+   Number = {12},
+   Pages = {1303-1306},
+   Year = {1985} }
+
+
+
+
+@article{
+Trullinger1974,
+   Author = {Trullinger, S. E. and Maradudin, A. A.},
+   Title = {Group Theory Applied to the Lattice Dynamics of Crystal Slabs and Bars},
+   Journal = {Physical Review B},
+   Volume = {10},
+   Number = {4},
+   Pages = {1350-1368},
+   Year = {1974} }
+
+
+
+
+@inproceedings{
+Turney2007,
+   Author = {Turney, J. E. and McGaughey, A. J. H. and Amon, C. H.},
+   Title = {Effects of Confinement and Surface Reconstruction on the Lattice Dynamcis and Thermal Transport Properties of Thin Films},
+   BookTitle = {ASME-JSME Thermal Engineering Summer Heat Transfer Conference},
+   Address= {Vancouver, British Columbia},
+   Pages = {32274},
+   Year = {2007} }
+
+
+
+
+@article{
+VanHove1954,
+   Author = {Van Hove, Léon},
+   Title = {Correlations in Space and Time and {B}Orn Approximation Scattering in Systems of Interacting Particles},
+   Journal = {Physical Review},
+   Volume = {95},
+   Number = {1},
+   Pages = {249-262},
+   Year = {1954} }
+
+
+
+
+@article{
+Venkatasubramanian2000,
+   Author = {Venkatasubramanian, Rama},
+   Title = {Lattice Thermal Conductivity Reduction and Phonon Localizationlike Behavior in Superlattice Structures},
+   Journal = {Physical Review B},
+   Volume = {61},
+   Number = {4},
+   Pages = {3091-3097},
+   Year = {2000} }
+
+
+
+
+@article{
+Vocadlo2000,
+   Author = {Vocadlo, L and Poirer, J P and Price, G D},
+   Title = {Gr\"{U}Neisen Parameters and Isothermal Equations of State},
+   Journal = {American Mineralogist},
+   Volume = {85},
+   Pages = {390-395},
+   Year = {2000} }
+
+
+
+
+@article{
+Vogelsang1987,
+   Author = {Vogelsang, R. and Hoheisel, C. and Ciccotti, G.},
+   Title = {Thermal Conductivity of the {L}Ennard-{J}Ones Liquid by Molecular Dynamics Calculations},
+   Journal = {Journal of Chemical Physics},
+   Volume = {86},
+   Number = {11},
+   Pages = {6371-6375},
+   Year = {1987} }
+
+
+
+
+@article{
+Voltz2000,
+   Author = {Volz, Sebastian G. and Chen, Gang},
+   Title = {Molecular-Dynamics Simulation of Thermal Conductivity of Silicon Crystals},
+   Journal = {Physical Review B},
+   Volume = {61},
+   Number = {4},
+   Pages = {2651-2656},
+   Year = {2000} }
+
+
+
+
+@article{
+Wagner2003,
+   Author = {Wagner, Gregory J. and Liu, Wing Kam},
+   Title = {Coupling of Atomistic and Continuum Simulations Using a Bridging Scale Decomposition},
+   Journal = {Journal of Computational Physics},
+   Volume = {190},
+   Number = {1},
+   Pages = {249-274},
+   Year = {2003} }
+
+
+
+
+@article{
+Wallace1966,
+   Author = {Wallace, Duane C.},
+   Title = {Renormalization and Statistical Mechanics in Many-Particle Systems. {I}. {H}Amiltonian Perturbation Method},
+   Journal = {Physical Review},
+   Volume = {152},
+   Number = {1},
+   Pages = {247-260},
+   Year = {1966} }
+
+
+
+
+@book{
+Wallace1972,
+   Author = {Wallace, Duane C.},
+   Title = {Thermodynamics of Crystals},
+   Publisher = {John Wiley \& Sons},
+   Address = {New York},
+   Year = {1972} }
+
+
+
+
+@article{
+Wang1990,
+   Author = {Wang, C. Z. and Chan, C. T. and Ho, K. M.},
+   Title = {Tight-Binding Molecular-Dynamics Study of Phonon Anharmonic Effects in Silicon and Diamond},
+   Journal = {Physical Review B},
+   Volume = {42},
+   Number = {17},
+   Pages = {11276-11283},
+   Year = {1990} }
+
+
+
+
+@inproceedings{
+Wang2005,
+   Author = {Wang, Shaowen and Xiao, Shaoping and Ni, Jun},
+   Title = {A Grid-Based Bridging Domain Multiple-Scale Method for Computational Nanotechnology},
+   BookTitle = {5th International Conference on Computational Science - ICCS 2005, May 22-25 2005},
+   Series= {Lecture Notes in Computer Science},
+   Address= {Atlanta, GA, United States},
+   Publisher = {Springer Verlag, Heidelberg, D-69121, Germany},
+   Volume = {3516},
+   Pages = {326-333},
+   Year = {2005} }
+
+
+
+
+@article{
+Warren1974,
+   Author = {Warren, J. L.},
+   Title = {Time-Reversal-Invariant Projection Operators for Lattice Dynamics},
+   Journal = {Physical Review B},
+   Volume = {9},
+   Number = {8},
+   Pages = {3603-3608},
+   Year = {1974} }
+
+
+
+
+@article{
+Warren1967,
+   Author = {Warren, J. L. and Yarnell, J. L. and Dolling, G. and Cowley, R. A.},
+   Title = {Lattice Dynamics of Diamond},
+   Journal = {Physical Review},
+   Volume = {158},
+   Number = {3},
+   Pages = {805-808},
+   Year = {1967} }
+
+
+
+
+@article{
+Weakliem1994,
+   Author = {Weakliem, Paul C. and Carter, Emily A.},
+   Title = {Constant Temperature Molecular Dynamics Simulations of {S}I(100) and {G}E(100): Equilibrium Structure and Short-Time Behavior},
+   Journal = {Journal of Chemical Physics},
+   Volume = {96},
+   Number = {4},
+   Pages = {3240-3250},
+   Year = {1992} }
+
+
+
+
+@techreport{
+White2000,
+   Author = {White, A},
+   Title = {Intermolecular Potentials of Mixed Systems: Testing the {L}Orentz-{B}Erthelot Mixing Rules with \Textit{Ab Initio} Calculations},
+   Institution = {Aeronautical and Maritime Research Laboratory},
+   Month= {2000/08},
+   Year = {2000} }
+
+
+
+
+@article{
+Xiao2006,
+   Author = {Xiao, Shaoping and Yang, Weixuan},
+   Title = {Temperature-Related {C}Auchy-{B}Orn Rule for Multiscale Modeling of Crystalline Solids},
+   Journal = {Computational Materials Science},
+   Volume = {37},
+   Number = {3},
+   Pages = {374-379},
+   Year = {2006} }
+
+
+
+
+@article{
+Xiao2004,
+   Author = {Xiao, S.P. and Belytschko, T.},
+   Title = {A Bridging Domain Method for Coupling Continua with Molecular Dynamics},
+   Journal = {Computer Methods in Applied Mechanics and Engineering},
+   Volume = {193},
+   Number = {17-20},
+   Pages = {1645-1669},
+   Year = {2004} }
+
+
+
+
+@article{
+Yang2000,
+   Author = {Yang, B. and Chen, G.},
+   Title = {Lattice Dynamics Study of Phonon Heat Conduction in Quantum Wells},
+   Journal = {Physics of Low-Dimensional Structures},
+   Number = {5-6},
+   Pages = {37-48},
+   Year = {2000} }
+
+
+
+
+@article{
+Zeng2001,
+   Author = {Zeng, T. and Chen, G.},
+   Title = {Phonon Heat Conduction in Thin Films: Impacts of Thermal Boundary Resistance and Internal Heat Generation},
+   Journal = {Journal of Heat Transfer},
+   Volume = {123},
+   Number = {2},
+   Pages = {340-347},
+   Year = {2001} }
+
+
+
+
+@article{
+Zhao2006,
+   Author = {Zhao, H. and Tang, Z. and Li, G. and Aluru, N.R.},
+   Title = {Quasiharmonic Models for the Calculation of Thermodynamic Properties of Crystalline Silicon under Strain},
+   Journal = {Journal of Applied Physics},
+   Volume = {99},
+   Number = {6},
+   Pages = {064314},
+   Year = {2006} }
+
+
+
+
+@article{
+Jian1990,
+   Author = {Zi Jian and Zhang Kaiming and Xie Xide},
+   Title = {Modification of {S}Tillinger-{W}Eber Potentials for {S}I and {G}E},
+   Journal = {Physical Review B},
+   Volume = {41},
+   Number = {18},
+   Pages = {12915-12918},
+   Year = {1990} }
+
+
+
+
+@book{
+Ziman1960,
+   Author = {Ziman, J M},
+   Title = {Electrons and Phonons: The Theory of Transport Phenomena in Solids},
+   Publisher = {Clarendon Press},
+   Address = {Oxford},
+   Year = {1960} }
+
+
+
+
+@article{
+Zoli1990,
+   Author = {Zoli, M.},
+   Title = {Anharmonic Lattice Vibrations in Noble Metals},
+   Journal = {Physical Review B},
+   Volume = {41},
+   Number = {11},
+   Pages = {7497-7506},
+   Year = {1990} }
+
+
+
+
+@article{
+Zubarev1960,
+   Author = {Zubarev, D. N.},
+   Title = {Double-Time Green Functions in Statistical Physics},
+   Journal = {Soviet Physics Uspekhi},
+   Volume = {3},
+   Number = {3},
+   Pages = {320-345},
+   Year = {1960} }
+
+   @phdthesis{turneythesis,
+     author = "J. E. Turney",
+     title = "{Predicting phonon properties and thermal conductivity using anharmonic lattice dynamics calculations}",
+     school = "Carnegie Mellon University",
+     year = 2009,
+     type = "{PhD Thesis}",
+     address = "Pittsburgh, {PA}"
+
+
+@MISC{
+footnote1,
+    note = "In their paper, McGaughey and Kaviany incorrectly take the decay constant to be half the relaxation time.  We divide their reported relaxation times and thermal conductivities by two to correct for the error."
+}
+
+
+
+@MISC{
+unpublished,
+   Author = {Turney, J. E. and Landry, E. S. and McGaughey, A. J. H. and Amon, C. H.},
+   note = "{I}n preparation."
+}
+
+@MISC{
+Mingo2009,
+   Author = {Mingo, N. and Hauser, D. and Kobayashi, N. P. and Plissonnier, M. and Shakouri, A.},
+   note = "{T}o appear in {N}ano {L}etters."
+}

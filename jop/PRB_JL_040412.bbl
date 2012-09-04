@@ -1,0 +1,430 @@
+\begin{thebibliography}{55}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Cahill et~al.}(2003)\citenamefont{Cahill, Ford,
+  Goodson, Mahan, Majumdar, Maris, Merlin, and Phillpot}}]{cahill2003}
+\bibinfo{author}{\bibfnamefont{D.~G.} \bibnamefont{Cahill}},
+  \bibinfo{author}{\bibfnamefont{W.~K.} \bibnamefont{Ford}},
+  \bibinfo{author}{\bibfnamefont{K.~E.} \bibnamefont{Goodson}},
+  \bibinfo{author}{\bibfnamefont{G.~D.} \bibnamefont{Mahan}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Majumdar}},
+  \bibinfo{author}{\bibfnamefont{H.~J.} \bibnamefont{Maris}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Merlin}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.~R.} \bibnamefont{Phillpot}},
+  \bibinfo{journal}{Journal of Applied Physics} \textbf{\bibinfo{volume}{93}},
+  \bibinfo{pages}{793} (\bibinfo{year}{2003}).
+
+\bibitem[{\citenamefont{McConnell and Goodson}(2005)}]{goodson2005}
+\bibinfo{author}{\bibfnamefont{A.~D.} \bibnamefont{McConnell}}
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{K.~E.}
+  \bibnamefont{Goodson}}, \bibinfo{journal}{Annual Review of Heat Transfer}
+  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{129} (\bibinfo{year}{2005}).
+
+\bibitem[{\citenamefont{Srivastava}(1990)}]{srivastava1990}
+\bibinfo{author}{\bibfnamefont{G.~P.} \bibnamefont{Srivastava}},
+  \emph{\bibinfo{title}{The Physics of Phonons}} (\bibinfo{publisher}{Adam
+  Hilger, Bristol}, \bibinfo{year}{1990}).
+
+\bibitem[{\citenamefont{Wallace}(1972)}]{wallace1972}
+\bibinfo{author}{\bibfnamefont{D.~C.} \bibnamefont{Wallace}},
+  \emph{\bibinfo{title}{Thermodynamics of Crystals}}
+  (\bibinfo{publisher}{Cambridge Univ. Press, Cambridge, UK},
+  \bibinfo{year}{1972}).
+
+\bibitem[{\citenamefont{Maradudin}(1974)}]{maradudin1974}
+\bibinfo{author}{\bibfnamefont{A.~A.} \bibnamefont{Maradudin}}, in
+  \emph{\bibinfo{booktitle}{Dynamical Properties of Solids, Volume 1}}, edited
+  by \bibinfo{editor}{\bibfnamefont{G.~K.} \bibnamefont{Horton}}
+  \bibnamefont{and} \bibinfo{editor}{\bibfnamefont{A.~A.}
+  \bibnamefont{Maradudin}} (\bibinfo{publisher}{Elsevier, New York},
+  \bibinfo{year}{1974}), pp. \bibinfo{pages}{1--82}.
+
+\bibitem[{\citenamefont{Dove}(1993)}]{dove1993}
+\bibinfo{author}{\bibfnamefont{M.~T.} \bibnamefont{Dove}},
+  \emph{\bibinfo{title}{Introduction to Lattice Dynamics}}
+  (\bibinfo{publisher}{Cambridge, Cambridge}, \bibinfo{year}{1993}).
+
+\bibitem[{\citenamefont{Broido et~al.}(2007)\citenamefont{Broido, Maloney,
+  Birner, Mingo, and Stewart}}]{broido2007}
+\bibinfo{author}{\bibfnamefont{D.~A.} \bibnamefont{Broido}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Maloney}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Birner}},
+  \bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Mingo}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Stewart}},
+  \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{91}},
+  \bibinfo{pages}{231922} (\bibinfo{year}{2007}).
+
+\bibitem[{\citenamefont{Esfarjani et~al.}(2011)\citenamefont{Esfarjani, Chen,
+  and Stokes}}]{esfarjani2011}
+\bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Esfarjani}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Chen}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{H.~T.} \bibnamefont{Stokes}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{84}},
+  \bibinfo{pages}{085204} (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Asheghi et~al.}(1997)\citenamefont{Asheghi, Leung,
+  Wong, and Goodson}}]{asheghi1997}
+\bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Asheghi}},
+  \bibinfo{author}{\bibfnamefont{Y.~K.} \bibnamefont{Leung}},
+  \bibinfo{author}{\bibfnamefont{S.~S.} \bibnamefont{Wong}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{K.~E.} \bibnamefont{Goodson}},
+  \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{71}},
+  \bibinfo{pages}{1798} (\bibinfo{year}{1997}).
+
+\bibitem[{\citenamefont{Balandin and Wang}(1998)}]{balandin1997}
+\bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Balandin}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{K.~L.} \bibnamefont{Wang}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{58}},
+  \bibinfo{pages}{1544} (\bibinfo{year}{1998}).
+
+\bibitem[{\citenamefont{Li and Yip}(1997)}]{li1997}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Li}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Yip}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{56}},
+  \bibinfo{pages}{3524} (\bibinfo{year}{1997}).
+
+\bibitem[{\citenamefont{Tian et~al.}(2011)\citenamefont{Tian, Esfarjani,
+  Shiomi, Henry, and Chen}}]{tian2011}
+\bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Tian}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Esfarjani}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Shiomi}},
+  \bibinfo{author}{\bibfnamefont{A.~S.} \bibnamefont{Henry}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Chen}},
+  \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{99}},
+  \bibinfo{pages}{053122} (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Hochbaum et~al.}(2008)\citenamefont{Hochbaum, Chen,
+  Delgado, Liang, Garnett, Najarian, Majumdar, and Yang}}]{Hochbaum2011}
+\bibinfo{author}{\bibfnamefont{A.~I.} \bibnamefont{Hochbaum}},
+  \bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Chen}},
+  \bibinfo{author}{\bibfnamefont{R.~D.} \bibnamefont{Delgado}},
+  \bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Liang}},
+  \bibinfo{author}{\bibfnamefont{E.~C.} \bibnamefont{Garnett}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Najarian}},
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Majumdar}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Yang}},
+  \bibinfo{journal}{Nature} \textbf{\bibinfo{volume}{451}},
+  \bibinfo{pages}{163} (\bibinfo{year}{2008}).
+
+\bibitem[{\citenamefont{Martin et~al.}(2009)\citenamefont{Martin, Aksamija,
+  Pop, and Ravaioli}}]{Martin2011}
+\bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Martin}},
+  \bibinfo{author}{\bibfnamefont{Z.}~\bibnamefont{Aksamija}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Pop}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{U.}~\bibnamefont{Ravaioli}},
+  \bibinfo{journal}{Physical Review Letters} \textbf{\bibinfo{volume}{102}},
+  \bibinfo{pages}{125503} (\bibinfo{year}{2009}).
+
+\bibitem[{\citenamefont{Yu et~al.}(2010)\citenamefont{Yu, Mitrovic, Tham,
+  Varghese, and Heath}}]{Yu2011}
+\bibinfo{author}{\bibfnamefont{J.-K.} \bibnamefont{Yu}},
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Mitrovic}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Tham}},
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Varghese}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.~R.} \bibnamefont{Heath}},
+  \bibinfo{journal}{Nature Nanotechnology} \textbf{\bibinfo{volume}{5}},
+  \bibinfo{pages}{718} (\bibinfo{year}{2010}).
+
+\bibitem[{\citenamefont{Hopkins et~al.}(2011)\citenamefont{Hopkins, Reinke, Su,
+  Olsson, Shaner, Leseman, Serrano, Phinney, and El-Kady}}]{Hopkins2011}
+\bibinfo{author}{\bibfnamefont{P.~E.} \bibnamefont{Hopkins}},
+  \bibinfo{author}{\bibfnamefont{C.~M.} \bibnamefont{Reinke}},
+  \bibinfo{author}{\bibfnamefont{M.~F.} \bibnamefont{Su}},
+  \bibinfo{author}{\bibfnamefont{R.~H.} \bibnamefont{Olsson}},
+  \bibinfo{author}{\bibfnamefont{E.~A.} \bibnamefont{Shaner}},
+  \bibinfo{author}{\bibfnamefont{Z.~C.} \bibnamefont{Leseman}},
+  \bibinfo{author}{\bibfnamefont{J.~R.} \bibnamefont{Serrano}},
+  \bibinfo{author}{\bibfnamefont{L.~M.} \bibnamefont{Phinney}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{I.}~\bibnamefont{El-Kady}},
+  \bibinfo{journal}{Nano Letters} \textbf{\bibinfo{volume}{11}},
+  \bibinfo{pages}{107} (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Landry et~al.}(2008)\citenamefont{Landry, Hussein, and
+  McGaughey}}]{landry2008}
+\bibinfo{author}{\bibfnamefont{E.~S.} \bibnamefont{Landry}},
+  \bibinfo{author}{\bibfnamefont{M.~I.} \bibnamefont{Hussein}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{A.~J.~H.}
+  \bibnamefont{McGaughey}}, \bibinfo{journal}{Physical Review B}
+  \textbf{\bibinfo{volume}{77}}, \bibinfo{pages}{184302}
+  (\bibinfo{year}{2008}).
+
+\bibitem[{\citenamefont{McGaughey et~al.}(2011)\citenamefont{McGaughey, Landry,
+  Sellan, and Amon}}]{mcgaughey2011a}
+\bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibinfo{author}{\bibfnamefont{E.~S.} \bibnamefont{Landry}},
+  \bibinfo{author}{\bibfnamefont{D.~P.} \bibnamefont{Sellan}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{C.~H.} \bibnamefont{Amon}},
+  \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{99}},
+  \bibinfo{pages}{131904} (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Landry and McGaughey}(2009{\natexlab{a}})}]{landry2009}
+\bibinfo{author}{\bibfnamefont{E.~S.} \bibnamefont{Landry}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{79}},
+  \bibinfo{pages}{075316} (\bibinfo{year}{2009}{\natexlab{a}}).
+
+\bibitem[{\citenamefont{Landry and
+  McGaughey}(2009{\natexlab{b}})}]{landry2009b}
+\bibinfo{author}{\bibfnamefont{E.~S.} \bibnamefont{Landry}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{80}},
+  \bibinfo{pages}{165304} (\bibinfo{year}{2009}{\natexlab{b}}).
+
+\bibitem[{\citenamefont{Landry and McGaughey}(2010)}]{landry2010}
+\bibinfo{author}{\bibfnamefont{E.~S.} \bibnamefont{Landry}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibinfo{journal}{Journal of Applied Physics} \textbf{\bibinfo{volume}{107}},
+  \bibinfo{pages}{013521} (\bibinfo{year}{2010}).
+
+\bibitem[{\citenamefont{Callaway}(1959)}]{callaway1959}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Callaway}},
+  \bibinfo{journal}{Physical Review} \textbf{\bibinfo{volume}{113}},
+  \bibinfo{pages}{1046} (\bibinfo{year}{1959}).
+
+\bibitem[{\citenamefont{Holland}(1963)}]{holland1963}
+\bibinfo{author}{\bibfnamefont{M.~G.} \bibnamefont{Holland}},
+  \bibinfo{journal}{Physical Review} \textbf{\bibinfo{volume}{132}},
+  \bibinfo{pages}{2461} (\bibinfo{year}{1963}).
+
+\bibitem[{\citenamefont{Ladd et~al.}(1986)\citenamefont{Ladd, Moran, and
+  Hoover}}]{ladd1986}
+\bibinfo{author}{\bibfnamefont{A.~J.~C.} \bibnamefont{Ladd}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Moran}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{W.~G.} \bibnamefont{Hoover}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{34}},
+  \bibinfo{pages}{5058} (\bibinfo{year}{1986}).
+
+\bibitem[{\citenamefont{McGaughey and
+  Kaviany}(2004{\natexlab{a}})}]{mcgaughey2004c}
+\bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}}
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Kaviany}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{69}},
+  \bibinfo{pages}{094303} (\bibinfo{year}{2004}{\natexlab{a}}).
+
+\bibitem[{\citenamefont{Schelling et~al.}(2002)\citenamefont{Schelling,
+  Phillpot, and Keblinski}}]{schelling2002}
+\bibinfo{author}{\bibfnamefont{P.~K.} \bibnamefont{Schelling}},
+  \bibinfo{author}{\bibfnamefont{S.~R.} \bibnamefont{Phillpot}},
+  \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{P.}~\bibnamefont{Keblinski}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{65}},
+  \bibinfo{pages}{144306} (\bibinfo{year}{2002}).
+
+\bibitem[{\citenamefont{Sellan et~al.}(2010{\natexlab{a}})\citenamefont{Sellan,
+  Landry, Turney, McGaughey, and Amon}}]{sellan2010a}
+\bibinfo{author}{\bibfnamefont{D.~P.} \bibnamefont{Sellan}},
+  \bibinfo{author}{\bibfnamefont{E.~S.} \bibnamefont{Landry}},
+  \bibinfo{author}{\bibfnamefont{J.~E.} \bibnamefont{Turney}},
+  \bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{C.~H.} \bibnamefont{Amon}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{81}},
+  \bibinfo{pages}{214305} (\bibinfo{year}{2010}{\natexlab{a}}).
+
+\bibitem[{\citenamefont{Turney et~al.}(2009{\natexlab{a}})\citenamefont{Turney,
+  Landry, McGaughey, and Amon}}]{turney2009a}
+\bibinfo{author}{\bibfnamefont{J.~E.} \bibnamefont{Turney}},
+  \bibinfo{author}{\bibfnamefont{E.~S.} \bibnamefont{Landry}},
+  \bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{C.~H.} \bibnamefont{Amon}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{79}},
+  \bibinfo{pages}{064301} (\bibinfo{year}{2009}{\natexlab{a}}).
+
+\bibitem[{\citenamefont{Sellan et~al.}(2010{\natexlab{b}})\citenamefont{Sellan,
+  Turney, McGaughey, and Amon}}]{sellan2010b}
+\bibinfo{author}{\bibfnamefont{D.~P.} \bibnamefont{Sellan}},
+  \bibinfo{author}{\bibfnamefont{J.~E.} \bibnamefont{Turney}},
+  \bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{C.~H.} \bibnamefont{Amon}},
+  \bibinfo{journal}{Journal of Applied Physics} \textbf{\bibinfo{volume}{108}},
+  \bibinfo{pages}{113524} (\bibinfo{year}{2010}{\natexlab{b}}).
+
+\bibitem[{\citenamefont{He et~al.}(2011)\citenamefont{He, Donadio, and
+  Galli}}]{He2011}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{He}},
+  \bibinfo{author}{\bibfnamefont{D.}~\bibnamefont{Donadio}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Galli}},
+  \bibinfo{journal}{Applied Physics Letters} \textbf{\bibinfo{volume}{98}},
+  \bibinfo{pages}{144101} (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Maradudin and Fein}(1962)}]{maradudin1962}
+\bibinfo{author}{\bibfnamefont{A.~A.} \bibnamefont{Maradudin}}
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{A.~E.} \bibnamefont{Fein}},
+  \bibinfo{journal}{Physical Review} \textbf{\bibinfo{volume}{128}},
+  \bibinfo{pages}{2589} (\bibinfo{year}{1962}).
+
+\bibitem[{\citenamefont{Turney et~al.}(2009{\natexlab{b}})\citenamefont{Turney,
+  McGaughey, and Amon}}]{turney2009b}
+\bibinfo{author}{\bibfnamefont{J.~E.} \bibnamefont{Turney}},
+  \bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{C.~H.} \bibnamefont{Amon}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{79}},
+  \bibinfo{pages}{224305} (\bibinfo{year}{2009}{\natexlab{b}}).
+
+\bibitem[{\citenamefont{Henry and Chen}(2008)}]{henry2008}
+\bibinfo{author}{\bibfnamefont{A.~S.} \bibnamefont{Henry}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Chen}},
+  \bibinfo{journal}{Journal of Computational and Theoretical Nanoscience}
+  \textbf{\bibinfo{volume}{5}}, \bibinfo{pages}{1} (\bibinfo{year}{2008}).
+
+\bibitem[{\citenamefont{Goicochea et~al.}(2010)\citenamefont{Goicochea, Madrid,
+  and Amon}}]{goicochea2010}
+\bibinfo{author}{\bibfnamefont{J.~V.} \bibnamefont{Goicochea}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Madrid}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{C.~H.} \bibnamefont{Amon}},
+  \bibinfo{journal}{Journal of Heat Transfer} \textbf{\bibinfo{volume}{132}},
+  \bibinfo{pages}{012401} (\bibinfo{year}{2010}).
+
+\bibitem[{\citenamefont{Maruyama}(2003)}]{maruyama2003}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Maruyama}},
+  \bibinfo{journal}{Microscale Thermophysical Engineering}
+  \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{41} (\bibinfo{year}{2003}).
+
+\bibitem[{\citenamefont{Shiomi and Maruyama}(2006)}]{shiomi2006}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Shiomi}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Maruyama}},
+  \bibinfo{journal}{Phys. Rev. B} \textbf{\bibinfo{volume}{73}},
+  \bibinfo{pages}{205420} (\bibinfo{year}{2006}).
+
+\bibitem[{\citenamefont{Thomas et~al.}(2010)\citenamefont{Thomas, Turney,
+  Iutzi, Amon, and McGaughey}}]{thomas2010c}
+\bibinfo{author}{\bibfnamefont{J.~A.} \bibnamefont{Thomas}},
+  \bibinfo{author}{\bibfnamefont{J.~E.} \bibnamefont{Turney}},
+  \bibinfo{author}{\bibfnamefont{R.~M.} \bibnamefont{Iutzi}},
+  \bibinfo{author}{\bibfnamefont{C.~H.} \bibnamefont{Amon}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{81}},
+  \bibinfo{pages}{081411(R)} (\bibinfo{year}{2010}).
+
+\bibitem[{\citenamefont{Ong et~al.}(2011)\citenamefont{Ong, Pop, and
+  Shiomi}}]{shiomi2011b}
+\bibinfo{author}{\bibfnamefont{Z.-Y.} \bibnamefont{Ong}},
+  \bibinfo{author}{\bibfnamefont{E.}~\bibnamefont{Pop}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Shiomi}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{84}},
+  \bibinfo{pages}{165418} (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Qiu et~al.}(2011)\citenamefont{Qiu, Bao, Zhang, Wub,
+  and Ruan}}]{qiu2011}
+\bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Qiu}},
+  \bibinfo{author}{\bibfnamefont{H.}~\bibnamefont{Bao}},
+  \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Zhang}},
+  \bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Wub}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{X.}~\bibnamefont{Ruan}},
+  \bibinfo{journal}{Computational Materials Science}
+  \textbf{\bibinfo{volume}{53}}, \bibinfo{pages}{278–285}
+  (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{Shiomi et~al.}(2011)\citenamefont{Shiomi, Esfarjani,
+  and Chen}}]{shiomi2011a}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Shiomi}},
+  \bibinfo{author}{\bibfnamefont{K.}~\bibnamefont{Esfarjani}},
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{G.}~\bibnamefont{Chen}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{84}},
+  \bibinfo{eid}{104302} (\bibinfo{year}{2011}).
+
+\bibitem[{\citenamefont{de~Koker}(2009)}]{dekoker2009}
+\bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{de~Koker}},
+  \bibinfo{journal}{Physical Review Letters} \textbf{\bibinfo{volume}{103}},
+  \bibinfo{pages}{125902} (\bibinfo{year}{2009}).
+
+\bibitem[{\citenamefont{Takuma~Hori and Shiomi}(2012)}]{Hori2012}
+\bibinfo{author}{\bibfnamefont{S.~M.} \bibnamefont{Takuma~Hori},
+  \bibfnamefont{Takuma~Shiga}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Shiomi}},
+  \bibinfo{journal}{Transactions of the Japan Society of Mechanical Engineers}
+  \textbf{\bibinfo{volume}{78}}, \bibinfo{pages}{328} (\bibinfo{year}{2012}).
+
+\bibitem[{\citenamefont{Ashcroft and Mermin}(1976)}]{ashcroft1976}
+\bibinfo{author}{\bibfnamefont{N.~W.} \bibnamefont{Ashcroft}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{N.~D.} \bibnamefont{Mermin}},
+  \emph{\bibinfo{title}{Solid State Physics}} (\bibinfo{publisher}{Saunders,
+  Fort Worth}, \bibinfo{year}{1976}).
+
+\bibitem[{\citenamefont{Stillinger and Weber}(1985)}]{stillinger1985}
+\bibinfo{author}{\bibfnamefont{F.~H.} \bibnamefont{Stillinger}}
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{T.~A.} \bibnamefont{Weber}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{31}},
+  \bibinfo{pages}{5262} (\bibinfo{year}{1985}).
+
+\bibitem[{\citenamefont{Brenner et~al.}(2002)\citenamefont{Brenner, Shenderova,
+  Harrison, Stuart, Ni, and Sinnott}}]{brenner2002}
+\bibinfo{author}{\bibfnamefont{D.~W.} \bibnamefont{Brenner}},
+  \bibinfo{author}{\bibfnamefont{O.~A.} \bibnamefont{Shenderova}},
+  \bibinfo{author}{\bibfnamefont{J.~A.} \bibnamefont{Harrison}},
+  \bibinfo{author}{\bibfnamefont{S.~J.} \bibnamefont{Stuart}},
+  \bibinfo{author}{\bibfnamefont{B.}~\bibnamefont{Ni}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{S.~B.} \bibnamefont{Sinnott}},
+  \bibinfo{journal}{Journal of Physics: Condensed Matter}
+  \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{783} (\bibinfo{year}{2002}).
+
+\bibitem[{\citenamefont{Rudin}(1987)}]{rudin1987}
+\bibinfo{author}{\bibfnamefont{W.}~\bibnamefont{Rudin}},
+  \emph{\bibinfo{title}{Real and Complex Analysis}}
+  (\bibinfo{publisher}{McGraw-Hill, New York}, \bibinfo{year}{1987}).
+
+\bibitem[{\citenamefont{McQuarrie}(2000)}]{mcquarrie2000}
+\bibinfo{author}{\bibfnamefont{D.~A.} \bibnamefont{McQuarrie}},
+  \emph{\bibinfo{title}{Statistical Mechanics}} (\bibinfo{publisher}{University
+  Science Books, Sausalito}, \bibinfo{year}{2000}).
+
+\bibitem[{\citenamefont{McGaughey and
+  Kaviany}(2004{\natexlab{b}})}]{mcgaughey2004a}
+\bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}}
+  \bibnamefont{and} \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Kaviany}},
+  \bibinfo{journal}{International Journal of Heat and Mass Transfer}
+  \textbf{\bibinfo{volume}{47}}, \bibinfo{pages}{1783}
+  (\bibinfo{year}{2004}{\natexlab{b}}).
+
+\bibitem[{\citenamefont{McGaughey et~al.}(2006)\citenamefont{McGaughey,
+  Hussein, Landry, Kaviany, and Hulbert}}]{mcgaughey2006b}
+\bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibinfo{author}{\bibfnamefont{M.~I.} \bibnamefont{Hussein}},
+  \bibinfo{author}{\bibfnamefont{E.~S.} \bibnamefont{Landry}},
+  \bibinfo{author}{\bibfnamefont{M.}~\bibnamefont{Kaviany}}, \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{G.~M.} \bibnamefont{Hulbert}},
+  \bibinfo{journal}{Physical Review B} \textbf{\bibinfo{volume}{74}},
+  \bibinfo{pages}{104304} (\bibinfo{year}{2006}).
+
+\bibitem[{\citenamefont{Ziman}(2001)}]{ziman2001}
+\bibinfo{author}{\bibfnamefont{J.~M.} \bibnamefont{Ziman}},
+  \emph{\bibinfo{title}{Electrons and Phonons}} (\bibinfo{publisher}{Oxford,
+  New York}, \bibinfo{year}{2001}).
+
+\bibitem[{\citenamefont{Thomas}(2010)}]{thomasthesis}
+\bibinfo{author}{\bibfnamefont{J.~A.} \bibnamefont{Thomas}},
+  \bibinfo{type}{{PhD Thesis}}, \bibinfo{school}{Carnegie Mellon University},
+  \bibinfo{address}{Pittsburgh, {PA}} (\bibinfo{year}{2010}).
+
+\bibitem[{\citenamefont{Plimpton}(1995)}]{LAMMPS}
+\bibinfo{author}{\bibfnamefont{S.}~\bibnamefont{Plimpton}},
+  \bibinfo{journal}{Journal of Computational Physics}
+  \textbf{\bibinfo{volume}{117}}, \bibinfo{pages}{1} (\bibinfo{year}{1995}).
+
+\bibitem[{\citenamefont{Gale and Rohl}(2003)}]{GULP}
+\bibinfo{author}{\bibfnamefont{J.}~\bibnamefont{Gale}} \bibnamefont{and}
+  \bibinfo{author}{\bibfnamefont{A.}~\bibnamefont{Rohl}},
+  \bibinfo{journal}{Molecular Simulation} \textbf{\bibinfo{volume}{29}},
+  \bibinfo{pages}{291} (\bibinfo{year}{2003}).
+
+\bibitem[{\citenamefont{McGaughey}(2004)}]{mcgaugheythesis}
+\bibinfo{author}{\bibfnamefont{A.~J.~H.} \bibnamefont{McGaughey}},
+  \bibinfo{type}{{PhD Thesis}}, \bibinfo{school}{University of Michigan},
+  \bibinfo{address}{Ann Arbor, {MI}} (\bibinfo{year}{2004}).
+
+\bibitem[{\citenamefont{Turney}(2009)}]{turneythesis}
+\bibinfo{author}{\bibfnamefont{J.~E.} \bibnamefont{Turney}},
+  \bibinfo{type}{{PhD Thesis}}, \bibinfo{school}{Carnegie Mellon University},
+  \bibinfo{address}{Pittsburgh, {PA}} (\bibinfo{year}{2009}).
+
+\end{thebibliography}

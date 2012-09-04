@@ -1,0 +1,122 @@
+\begin{thebibliography}{10}
+
+\bibitem{callaway1959}
+Callaway, J., 1959.
+\newblock ``Model for lattice thermal conductivity at low temperatures''.
+\newblock {\em Physical Review, \textbf{ 113}}, p.~1046.
+
+\bibitem{holland1963}
+Holland, M.~G., 1963.
+\newblock ``Analysis of lattice thermal conductivity''.
+\newblock {\em Physical Review, \textbf{ 132}}, p.~2461.
+
+\bibitem{mcgaughey2004c}
+McGaughey, A. J.~H., and Kaviany, M., 2004.
+\newblock ``Quantitative validation of the {B}oltzmann transport equation
+  phonon thermal conductivity model under the single-mode relaxation time
+  approximation''.
+\newblock {\em Physical Review B, \textbf{ 69}}, p.~094303.
+
+\bibitem{landry2008}
+Landry, E.~S., Hussein, M.~I., and McGaughey, A. J.~H., 2008.
+\newblock ``Complex superlattice unit cell designs for reduced thermal
+  conductivity''.
+\newblock {\em Physical Review B, \textbf{ 77}}, p.~184302.
+
+\bibitem{schelling2002}
+Schelling, P.~K., Phillpot, S.~R., and Keblinski, P., 2002.
+\newblock ``Comparison of atomic-level simulation methods for computing thermal
+  conductivity''.
+\newblock {\em Physical Review B, \textbf{ 65}}, p.~144306.
+
+\bibitem{sellan2010a}
+Sellan, D.~P., Landry, E.~S., Turney, J.~E., McGaughey, A. J.~H., Amon, C.~H.,
+  and McGaughey, A. J.~H., 2010.
+\newblock ``Size effects in molecular dynamics thermal conductivity
+  prediction''.
+\newblock {\em Physical Review B, \textbf{ 81}}, p.~214305.
+
+\bibitem{ladd1986}
+Ladd, A. J.~C., Moran, B., and Hoover, W.~G., 1986.
+\newblock ``Lattice thermal conductivity: A comparison of molecular dynamics
+  and anharmonic lattice dynamics''.
+\newblock {\em Physical Review B, \textbf{ 34}}, pp.~5058--5064.
+
+\bibitem{henry2008}
+Henry, A.~S., and Chen, G., 2008.
+\newblock ``Spectral phonon transport properties of silicon based on molecular
+  dynamics simulations and lattice dynamics''.
+\newblock {\em Journal of Computational and Theoretical Nanoscience, \textbf{
+  5}}, pp.~1--12.
+
+\bibitem{goicochea2010}
+Goicochea, J.~V., Madrid, M., and Amon, C.~H., 2010.
+\newblock ``Thermal properties for bulk silicon based on the determination of
+  relaxation times using molecular dynamics''.
+\newblock {\em Journal of Heat Transfer, \textbf{ 132}}, p.~012401.
+
+\bibitem{maradudin1962}
+Maradudin, A.~A., and Fein, A.~E., 1962.
+\newblock ``Scattering of neutrons by an anharmonic crystal''.
+\newblock {\em Physical Review, \textbf{ 128}}, pp.~2589--2608.
+
+\bibitem{wallace1972}
+Wallace, D.~C., 1972.
+\newblock {\em Thermodynamics of Crystals}.
+\newblock Cambridge Univ. Press, Cambridge, UK.
+
+\bibitem{dove1993}
+Dove, M.~T., 1993.
+\newblock {\em Introduction to Lattice Dynamics}.
+\newblock Cambridge, Cambridge.
+
+\bibitem{turney2009a}
+Turney, J.~E., Landry, E.~S., McGaughey, A. J.~H., and Amon, C.~H., 2009.
+\newblock ``Predicting phonon properties and thermal conductivity from
+  anharmonic lattice dynamics calculations and molecular dynamics
+  simulations''.
+\newblock {\em Physical Review B, \textbf{ 79}}, p.~064301.
+
+\bibitem{marayuma2003}
+Marayuma, S., 2003.
+\newblock ``A molecular dynamics simulation of heat conduction of a finite
+  length single-walled carbon nanotube''.
+\newblock {\em Nanoscale and Microscale Thermophysical Engineering, \textbf{
+  7}}, pp.~41--50.
+
+\bibitem{shiomi2006}
+Shiomi, J., and Maruyama, S., 2006.
+\newblock ``Non-fourier heat conduction in a single-walled carbon nanotube:
+  Classical molecular dynamics simulations''.
+\newblock {\em Phys. Rev. B, \textbf{ 73}}, p.~205420.
+
+\bibitem{dekoker2009}
+de~Koker, N., 2009.
+\newblock ``Thermal conductivity of {MgO} periclase from equilibrium first
+  principles molecular dynamics''.
+\newblock {\em Physical Review Letters, \textbf{ 103}}, p.~125902.
+
+\bibitem{thomas2010c}
+Thomas, J.~A., Turney, J.~E., Iutzi, R.~M., Amon, C.~H., , and McGaughey, A.
+  J.~H., 2010.
+\newblock ``Predicting phonon dispersion relations and lifetimes from the
+  spectral energy density''.
+\newblock {\em Physical Review B, \textbf{ 81}}, p.~081411(R).
+
+\bibitem{turneythesis}
+Turney, J.~E., 2009.
+\newblock ``{Predicting phonon properties and thermal conductivity using
+  anharmonic lattice dynamics calculations}''.
+\newblock {PhD Thesis}, Carnegie Mellon University, Pittsburgh, {PA}.
+
+\bibitem{rudin1987}
+Rudin, W., 1987.
+\newblock {\em Real and Complex Analysis}.
+\newblock McGraw-Hill, New York.
+
+\bibitem{srivastava1990}
+Srivastava, G.~P., 1990.
+\newblock {\em The Physics of Phonons}.
+\newblock Adam Hilger, Bristol.
+
+\end{thebibliography}

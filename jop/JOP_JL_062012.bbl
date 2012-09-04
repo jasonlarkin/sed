@@ -1,0 +1,298 @@
+\begin{thebibliography}{10}
+
+\bibitem{cahill2003}
+D.~G. Cahill, W.~K. Ford, K.~E. Goodson, G.~D. Mahan, A.~Majumdar, H.~J. Maris,
+  R.~Merlin, and S.~R. Phillpot.
+\newblock Nanoscale thermal transport.
+\newblock {\em Journal of Applied Physics}, 93:793--818, 2003.
+
+\bibitem{goodson2005}
+A.~D. McConnell and K.~E. Goodson.
+\newblock Thermal conduction in silicon micro and nanostructures.
+\newblock {\em Annual Review of Heat Transfer}, 14:129--168, 2005.
+
+\bibitem{srivastava1990}
+G.~P. Srivastava.
+\newblock {\em The Physics of Phonons}.
+\newblock Adam Hilger, Bristol, 1990.
+
+\bibitem{wallace1972}
+D.~C. Wallace.
+\newblock {\em Thermodynamics of Crystals}.
+\newblock Cambridge Univ. Press, Cambridge, UK, 1972.
+
+\bibitem{maradudin1974}
+A.~A. Maradudin.
+\newblock In G.~K. Horton and A.~A. Maradudin, editors, {\em Dynamical
+  Properties of Solids, Volume 1}, pages 1--82. Elsevier, New York, 1974.
+
+\bibitem{dove1993}
+M.~T. Dove.
+\newblock {\em Introduction to Lattice Dynamics}.
+\newblock Cambridge, Cambridge, 1993.
+
+\bibitem{broido2007}
+D.~A. Broido, M.~Maloney, G.~Birner, N.~Mingo, and D.~Stewart.
+\newblock Intrinsic lattice thermal conductivity of semiconductors from first
+  principles.
+\newblock {\em Applied Physics Letters}, 91:231922, 2007.
+
+\bibitem{esfarjani2011}
+K.~Esfarjani, G.~Chen, and H.~T. Stokes.
+\newblock Heat transport in silicon from first-principles calculations.
+\newblock {\em Physical Review B}, 84:085204, 2011.
+
+\bibitem{asheghi1997}
+M.~Asheghi, Y.~K. Leung, S.~S. Wong, and K.~E. Goodson.
+\newblock {\em Applied Physics Letters}, 71:1798, 1997.
+
+\bibitem{balandin1997}
+A.~Balandin and K.~L. Wang.
+\newblock {\em Physical Review B}, 58:1544, 1998.
+
+\bibitem{li1997}
+J.~Li and S.~Yip.
+\newblock Order-{N} method to calculate the local density of states.
+\newblock {\em Physical Review B}, 56:3524--3527, 1997.
+
+\bibitem{tian2011}
+Z.~Tian, K.~Esfarjani, J.~Shiomi, A.~S. Henry, and G.~Chen.
+\newblock {\em Applied Physics Letters}, 99:053122, 2011.
+
+\bibitem{Hochbaum2011}
+A.~I. Hochbaum, R.~Chen, R.~D. Delgado, W.~Liang, E.~C. Garnett, M.~Najarian,
+  A.~Majumdar, and P.~Yang.
+\newblock {\em Nature}, 451:163, 2008.
+
+\bibitem{Martin2011}
+P.~Martin, Z.~Aksamija, E.~Pop, and U.~Ravaioli.
+\newblock {\em Physical Review Letters}, 102:125503, 2009.
+
+\bibitem{Yu2011}
+J.-K. Yu, S.~Mitrovic, D.~Tham, J.~Varghese, and J.~R. Heath.
+\newblock {\em Nature Nanotechnology}, 5:718, 2010.
+
+\bibitem{Hopkins2011}
+P.~E. Hopkins, C.~M. Reinke, M.~F. Su, R.~H. Olsson, E.~A. Shaner, Z.~C.
+  Leseman, J.~R. Serrano, L.~M. Phinney, and I.~El-Kady.
+\newblock {\em Nano Letters}, 11:107, 2011.
+
+\bibitem{landry2008}
+E.~S. Landry, M.~I. Hussein, and A~J.~H. McGaughey.
+\newblock Complex superlattice unit cell designs for reduced thermal
+  conductivity.
+\newblock {\em Physical Review B}, 77:184302, 2008.
+
+\bibitem{mcgaughey2011a}
+A.~J.~H. McGaughey, E.~S. Landry, D.~P. Sellan, and C.~H. Amon.
+\newblock Size-dependent model for thin film and nanowire thermal conductivity.
+\newblock {\em Applied Physics Letters}, 99:131904, 2011.
+
+\bibitem{landry2009}
+E.~S. Landry and A.~J.~H. McGaughey.
+\newblock Effect of interfacial species mixing on phonon transport in
+  semiconductor superlattices.
+\newblock {\em Physical Review B}, 79:075316, 2009.
+
+\bibitem{landry2009b}
+E.~S. Landry and A.~J.~H. McGaughey.
+\newblock Thermal boundary resistance predictions from molecular dynamics
+  simulations and theoretical calculations.
+\newblock {\em Physical Review B}, 80:165304, 2009.
+
+\bibitem{landry2010}
+E.~S. Landry and A.~J.~H. McGaughey.
+\newblock Effect of film thickness on the thermal resistance of confined
+  semiconductor thin films.
+\newblock {\em Journal of Applied Physics}, 107:013521, 2010.
+
+\bibitem{callaway1959}
+J.~Callaway.
+\newblock Model for lattice thermal conductivity at low temperatures.
+\newblock {\em Physical Review}, 113:1046, 1959.
+
+\bibitem{holland1963}
+M.~G. Holland.
+\newblock Analysis of lattice thermal conductivity.
+\newblock {\em Physical Review}, 132:2461, 1963.
+
+\bibitem{ladd1986}
+A.~J.~C. Ladd, B.~Moran, and W.~G. Hoover.
+\newblock Lattice thermal conductivity: A comparison of molecular dynamics and
+  anharmonic lattice dynamics.
+\newblock {\em Physical Review B}, 34:5058--5064, 1986.
+
+\bibitem{mcgaughey2004c}
+A.~J.~H. McGaughey and M.~Kaviany.
+\newblock Quantitative validation of the {B}oltzmann transport equation phonon
+  thermal conductivity model under the single-mode relaxation time
+  approximation.
+\newblock {\em Physical Review B}, 69:094303, 2004.
+
+\bibitem{schelling2002}
+P.~K. Schelling, S.~R. Phillpot, and P.~Keblinski.
+\newblock Comparison of atomic-level simulation methods for computing thermal
+  conductivity.
+\newblock {\em Physical Review B}, 65:144306, 2002.
+
+\bibitem{sellan2010a}
+D.~P. Sellan, E.~S. Landry, J.~E. Turney, A.~J.~H. McGaughey, and C.~H. Amon.
+\newblock Size effects in molecular dynamics thermal conductivity prediction.
+\newblock {\em Physical Review B}, 81:214305, 2010.
+
+\bibitem{turney2009a}
+J.~E. Turney, E.~S. Landry, A.~J.~H. McGaughey, and C.~H. Amon.
+\newblock Predicting phonon properties and thermal conductivity from anharmonic
+  lattice dynamics calculations and molecular dynamics simulations.
+\newblock {\em Physical Review B}, 79:064301, 2009.
+
+\bibitem{sellan2010b}
+D.~P. Sellan, J.~E. Turney, A.~J.~H. McGaughey, and C.~H. Amon.
+\newblock Cross-plane phonon transport in thin films.
+\newblock {\em Journal of Applied Physics}, 108:113524, 2010.
+
+\bibitem{He2011}
+Yuping He, Davide Donadio, and Giulia Galli.
+\newblock Heat transport in amorphous silicon: Interplay between morphologyand
+  disorder.
+\newblock {\em Applied Physics Letters}, 98:144101, 2011.
+
+\bibitem{maradudin1962}
+A.~A. Maradudin and A.~E. Fein.
+\newblock Scattering of neutrons by an anharmonic crystal.
+\newblock {\em Physical Review}, 128:2589--2608, 1962.
+
+\bibitem{turney2009b}
+J.~E. Turney, A.~J.~H. McGaughey, and C.~H. Amon.
+\newblock Assessing the applicability of quantum corrections to classical
+  thermal conductivity predictions.
+\newblock {\em Physical Review B}, 79:224305, 2009.
+
+\bibitem{henry2008}
+A.~S. Henry and G.~Chen.
+\newblock Spectral phonon transport properties of silicon based on molecular
+  dynamics simulations and lattice dynamics.
+\newblock {\em Journal of Computational and Theoretical Nanoscience}, 5:1--12,
+  2008.
+
+\bibitem{goicochea2010}
+J.~V. Goicochea, M.~Madrid, and C.~H. Amon.
+\newblock Thermal properties for bulk silicon based on the determination of
+  relaxation times using molecular dynamics.
+\newblock {\em Journal of Heat Transfer}, 132:012401, 2010.
+
+\bibitem{maruyama2003}
+S.~Maruyama.
+\newblock A molecular dynamics simulation of heat conduction of a finite length
+  single-walled carbon nanotube.
+\newblock {\em Microscale Thermophysical Engineering}, 7:41--50, 2003.
+
+\bibitem{shiomi2006}
+Junichiro Shiomi and Shigeo Maruyama.
+\newblock Non-fourier heat conduction in a single-walled carbon nanotube:
+  Classical molecular dynamics simulations.
+\newblock {\em Phys. Rev. B}, 73:205420, 2006.
+
+\bibitem{thomas2010c}
+J.~A. Thomas, J.~E. Turney, R.~M. Iutzi, C.~H. Amon, and A.~J.~H. McGaughey.
+\newblock Predicting phonon dispersion relations and lifetimes from the
+  spectral energy density.
+\newblock {\em Physical Review B}, 81:081411(R), 2010.
+
+\bibitem{shiomi2011b}
+Zhun-Yong Ong, Eric Pop, and Junichiro Shiomi.
+\newblock Reduction of phonon lifetimes and thermal conductivity of a carbon
+  nanotube on amorphous silica.
+\newblock {\em Physical Review B}, 84(16):165418, 2011.
+
+\bibitem{qiu2011}
+Bo~Qiu, Hua Bao, Gengqiang Zhang, Yue Wub, and Xiulin Ruan.
+\newblock Molecular dynamics simulations of lattice thermal conductivity and
+  spectral phonon mean free path of pbte: Bulk and nanostructures.
+\newblock {\em Computational Materials Science}, 53:278\96285, 2011.
+
+\bibitem{shiomi2011a}
+Junichiro Shiomi, Keivan Esfarjani, and Gang Chen.
+\newblock Thermal conductivity of half-heusler compounds from first-principles
+  calculations.
+\newblock {\em Physical Review B}, 84(10):125209, 2011.
+
+\bibitem{dekoker2009}
+N.~de~Koker.
+\newblock Thermal conductivity of {MgO} periclase from equilibrium first
+  principles molecular dynamics.
+\newblock {\em Physical Review Letters}, 103:125902, 2009.
+
+\bibitem{Hori2012}
+Shigeo~Maruyama Takuma~Hori, Takuma~Shiga and Junichiro Shiomi.
+\newblock Mode-dependent phonon transport analysis of silicon crystal by
+  molecular dynamics method.
+\newblock {\em Transactions of the Japan Society of Mechanical Engineers},
+  78:328--337, 2012.
+
+\bibitem{ashcroft1976}
+N.~W. Ashcroft and N.~D. Mermin.
+\newblock {\em Solid State Physics}.
+\newblock Saunders, Fort Worth, 1976.
+
+\bibitem{stillinger1985}
+F.~H. Stillinger and T.~A. Weber.
+\newblock Computer simulation of local order in condensed phases of silicon.
+\newblock {\em Physical Review B}, 31:5262--5271, 1985.
+
+\bibitem{brenner2002}
+D.~W. Brenner, O.~A. Shenderova, J.~A. Harrison, S.~J. Stuart, B.~Ni, and S.~B.
+  Sinnott.
+\newblock A second-generation reactive empirical bond order ({REBO}) potential
+  energy expression for hydrocarbons.
+\newblock {\em Journal of Physics: Condensed Matter}, 14:783--802, 2002.
+
+\bibitem{rudin1987}
+W.~Rudin.
+\newblock {\em Real and Complex Analysis}.
+\newblock McGraw-Hill, New York, 1987.
+
+\bibitem{mcquarrie2000}
+D.~A. McQuarrie.
+\newblock {\em Statistical Mechanics}.
+\newblock University Science Books, Sausalito, 2000.
+
+\bibitem{mcgaughey2006b}
+A.~J.~H. McGaughey, M.~I. Hussein, E.~S. Landry, M.~Kaviany, and G.~M. Hulbert.
+\newblock Phonon band structure and thermal transport correlation in a layered
+  diatomic crystal.
+\newblock {\em Physical Review B}, 74:104304, 2006.
+
+\bibitem{ziman2001}
+J.~M. Ziman.
+\newblock {\em Electrons and Phonons}.
+\newblock Oxford, New York, 2001.
+
+\bibitem{thomasthesis}
+J.~A. Thomas.
+\newblock {\em {water flow and thermal transport through carbon nanotubes}}.
+\newblock {PhD Thesis}, Carnegie Mellon University, Pittsburgh, {PA}, 2010.
+
+\bibitem{LAMMPS}
+S.~Plimpton.
+\newblock Fast parallel algorithms for short-range molecular dynamics.
+\newblock {\em Journal of Computational Physics}, 117:1--19, 1995.
+
+\bibitem{GULP}
+J.D. Gale and A.L. Rohl.
+\newblock The general utility lattice program.
+\newblock {\em Molecular Simulation}, 29:291, 2003.
+
+\bibitem{mcgaugheythesis}
+Alan J.~H. McGaughey.
+\newblock {\em {Phonon Transport in Molecular Dynamics Simulations:Formulation
+  and Thermal Conductivity Prediction}}.
+\newblock {PhD Thesis}, University of Michigan, Ann Arbor, {MI}, 2004.
+
+\bibitem{turneythesis}
+J.~E. Turney.
+\newblock {\em {Predicting phonon properties and thermal conductivity using
+  anharmonic lattice dynamics calculations}}.
+\newblock {PhD Thesis}, Carnegie Mellon University, Pittsburgh, {PA}, 2009.
+
+\end{thebibliography}

@@ -1,0 +1,27 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: PRB_JL_040412.aux
+The style file: apsrev.bst
+Database file #1: references.bib
+Repeated entry---line 2959 of file references.bib
+ : @misc{sellan2010b
+ :                  ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 5538 of file references.bib
+ : 
+ : %Nanostructures
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 5558 of file references.bib
+ : @article{li1997
+ :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5749 of file references.bib
+ : @misc{lammps
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5766 of file references.bib
+ : @misc{gulp
+ :           ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "endnote1"
+Warning--I didn't find a database entry for "endnote2"
+(There were 5 error messages)
